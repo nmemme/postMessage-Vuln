@@ -1,0 +1,1927 @@
+Sent! vulnsite.html 1 postMessageTest.html:29:3
+hi vulnsite.html:1:1
+Sent! vulnsite2.html 2 postMessageTest.html:29:3
+hi2 vulnsite2.html:1:1
+Sent! "http://000webhost.com" 3 postMessageTest.html:29:3
+Sent! "http://07129.com" 4 postMessageTest.html:29:3
+Sent! "http://1000freeads.com" 5 postMessageTest.html:29:3
+Sent! "http://100daysofgrowth.com" 6 postMessageTest.html:29:3
+Object { readyState: 0, getResponseHeader: .ajax/v.getResponseHeader(), getAllResponseHeaders: .ajax/v.getAllResponseHeaders(), setRequestHeader: .ajax/v.setRequestHeader(), overrideMimeType: .ajax/v.overrideMimeType(), statusCode: .ajax/v.statusCode(), abort: .ajax/v.abort(), state: .Deferred/d.state(), always: .Deferred/d.always(), then: .Deferred/d.then(), 12 more… } api.min.js:1:31087
+Object { readyState: 0, getResponseHeader: .ajax/v.getResponseHeader(), getAllResponseHeaders: .ajax/v.getAllResponseHeaders(), setRequestHeader: .ajax/v.setRequestHeader(), overrideMimeType: .ajax/v.overrideMimeType(), statusCode: .ajax/v.statusCode(), abort: .ajax/v.abort(), state: .Deferred/d.state(), always: .Deferred/d.always(), then: .Deferred/d.then(), 12 more… } api.min.js:1:31087
+=============================================================================================================================== cookieconsent.latest.min.js:8:4
+
+"This version of Cookie Consent has been removed. See https://silktide.com/really-important-update-to-users-of-cookie-consent-2/" cookieconsent.latest.min.js:8:15
+
+=============================================================================================================================== cookieconsent.latest.min.js:8:26
+
+Sent! "http://123cheapdomains.com" 7 postMessageTest.html:29:3
+Object { readyState: 0, getResponseHeader: .ajax/C.getResponseHeader(), getAllResponseHeaders: .ajax/C.getAllResponseHeaders(), setRequestHeader: .ajax/C.setRequestHeader(), overrideMimeType: .ajax/C.overrideMimeType(), statusCode: .ajax/C.statusCode(), abort: .ajax/C.abort(), state: .Deferred/r.state(), always: .Deferred/r.always(), then: .Deferred/r.then(), 11 more… } base.master.footer.script.prod-5e1dcafde416f472eda1a5b109afb0c9.js:8:125
+Sent! "http://123guestbook.com" 8 postMessageTest.html:29:3
+=============================================================================================================================== cookieconsent.latest.min.js:8:4
+
+"This version of Cookie Consent has been removed. See https://silktide.com/really-important-update-to-users-of-cookie-consent-2/" cookieconsent.latest.min.js:8:15
+
+=============================================================================================================================== cookieconsent.latest.min.js:8:26
+
+Sent! "http://123guestbook.com" 9 postMessageTest.html:29:3
+Sent! "http://155game.com" 10 postMessageTest.html:29:3
+Sent! "http://1800contacts.com" 11 postMessageTest.html:29:3
+carouFredSel: No element found for "#recently-viewed-products ul". oaa173923723.js:12:31716
+carouFredSel: No element found for "#product-img-video-carousel ul". oaa173923723.js:12:31716
+carouFredSel: No element found for "#video-detail-carousel ul". oaa173923723.js:12:31716
+carouFredSel: No element found for "#related-products-carousel ul". oaa173923723.js:12:31716
+carouFredSel: No element found for "#latest-videos-carousel ul". oaa173923723.js:12:31716
+carouFredSel: No element found for "#mod-commonly-replaced-parts ul". oaa173923723.js:12:31716
+Sent! "http://1happybirthday.com" 12 postMessageTest.html:29:3
+Sent! "http://1network1.com" 13 postMessageTest.html:29:3
+Signal: error: {"type":"script","message":"Problem loading //s.btstatic.com/lib/7c43ba370804b1abc2d1a17c6948277b4673c712.js?v=1","tagId":-1} tag.js:2:286
+Signal: error: {"type":"dbe","message":"ReferenceError: s is not defined","dbe.name":"campaign","pageId":1078386} tag.js:2:286
+Signal: error: {"type":"dbe","message":"ReferenceError: s is not defined","dbe.name":"time of day","pageId":1078386} tag.js:2:286
+Signal: error: {"type":"dbe","message":"ReferenceError: s is not defined","dbe.name":"previous site section","pageId":1078386} tag.js:2:286
+Signal: error: {"type":"dbe","message":"ReferenceError: s is not defined","dbe.name":"timeparting","pageId":1078386} tag.js:2:286
+Signal: error: {"type":"dbe","message":"ReferenceError: s is not defined","dbe.name":"adobe analytics visitor id","pageId":1078386} tag.js:2:286
+Signal: error: {"type":"dbe","message":"ReferenceError: s is not defined","dbe.name":"days since last visit","pageId":1078386} tag.js:2:286
+Signal: error: {"type":"dbe","message":"ReferenceError: s is not defined","dbe.name":"previous page name","pageId":1078386} tag.js:2:286
+Signal: error: {"type":"dbe","message":"ReferenceError: s is not defined","dbe.name":"day of week","pageId":1078386} tag.js:2:286
+Sent! "http://2015sunglassvip.com" 14 postMessageTest.html:29:3
+Sent! "http://20m.com" 15 postMessageTest.html:29:3
+Sent! "http://23woniu.com" 16 postMessageTest.html:29:3
+Sent! "http://2ch.io" 17 postMessageTest.html:29:3
+Sent! "http://2game.info" 18 postMessageTest.html:29:3
+Sent! "http://2winbet.gr" 19 postMessageTest.html:29:3
+10: Added Ning_Top_Leaderboard glamadapt_jsapi.act:25:5
+12: Added Ning_Top_Right glamadapt_jsapi.act:25:5
+15: Called GlamGetAds() glamadapt_jsapi.act:25:5
+Sent! "http://3avape.com" 20 postMessageTest.html:29:3
+Sent! "http://3dmaza.com" 21 postMessageTest.html:29:3
+Sent! "http://3v4l.org" 22 postMessageTest.html:29:3
+Sent! "http://3wisp.com" 23 postMessageTest.html:29:3
+Sent! "http://4degreez.com" 24 postMessageTest.html:29:3
+This browser is AJAX compatible vbulletin-core.js:11:10736
+Sent! "http://4x4ekdromes.gr" 25 postMessageTest.html:29:3
+Sent! "http://5ine.co" 26 postMessageTest.html:29:3
+Sent! "http://6pm.com" 27 postMessageTest.html:29:3
+Sent! "http://7808.info" 28 postMessageTest.html:29:3
+Sent! "http://800score.com" 29 postMessageTest.html:29:3
+Sent! "http://888sport.com" 30 postMessageTest.html:29:3
+Sent! "http://8iholdings.com" 31 postMessageTest.html:29:3
+Sent! "http://8tracks.com" 32 postMessageTest.html:29:3
+Sent! "http://9links.us" 33 postMessageTest.html:29:3
+Sent! "http://abbl.com" 34 postMessageTest.html:29:3
+Sent! "http://aboutcreditloan.com" 35 postMessageTest.html:29:3
+Sent! "http://abs-cbnnews.com" 36 postMessageTest.html:29:3
+Sent! "http://absinthe101.com" 37 postMessageTest.html:29:3
+Sent! "http://abv.bg" 38 postMessageTest.html:29:3
+"Error: [$compile:tpload] Failed to load template: /partials/main.html (HTTP status: -1 )
+http://errors.angularjs.org/1.4.8/$compile/tpload?p0=%2Fpartials%2Fmain.html&p1=-1&p2=
+d/<@https://www.ace.ng/scripts/f22445d1.vendor.js:3:20611
+h@https://www.ace.ng/scripts/f22445d1.vendor.js:6:217
+i@https://www.ace.ng/scripts/f22445d1.vendor.js:5:18448
+j/<@https://www.ace.ng/scripts/f22445d1.vendor.js:5:18620
+rc/this.$get</o.prototype.$eval@https://www.ace.ng/scripts/f22445d1.vendor.js:5:26125
+rc/this.$get</o.prototype.$digest@https://www.ace.ng/scripts/f22445d1.vendor.js:5:24637
+rc/this.$get</o.prototype.$apply@https://www.ace.ng/scripts/f22445d1.vendor.js:5:26407
+f@https://www.ace.ng/scripts/f22445d1.vendor.js:5:1792
+q@https://www.ace.ng/scripts/f22445d1.vendor.js:5:3642
+Eb/</w@https://www.ace.ng/scripts/f22445d1.vendor.js:5:4240
+" f22445d1.vendor.js:5:11688
+
+Sent! "http://acherryontop.com" 39 postMessageTest.html:29:3
+Sent! "http://achieveleap.com" 40 postMessageTest.html:29:3
+Sent! "http://achillesheel.co.uk" 41 postMessageTest.html:29:3
+Sent! "http://activerideshop.com" 42 postMessageTest.html:29:3
+Sent! "http://adam4adam.com" 43 postMessageTest.html:29:3
+Sent! "http://adambrown.info" 44 postMessageTest.html:29:3
+Sent! "http://addthis.com" 45 postMessageTest.html:29:3
+Sent! "http://adinc.co.kr" 46 postMessageTest.html:29:3
+Sent! "http://adobesystems.com" 47 postMessageTest.html:29:3
+Sent! "http://adrftech.co.kr" 48 postMessageTest.html:29:3
+Sent! "http://adslgate.com" 49 postMessageTest.html:29:3
+ADT Chat using lpNumber:  82863796 www.adt.com:7372:4
+Sent! "http://advgoogle.blogspot.com" 50 postMessageTest.html:29:3
+Sent! "http://advisato.it" 51 postMessageTest.html:29:3
+Sent! "http://afewshortcuts.com" 52 postMessageTest.html:29:3
+Sent! "http://ahliunited.com" 53 postMessageTest.html:29:3
+l =  null aircanada.com:173:1
+selectedCountry =  generic aircanada.com:450:1
+Sent! "http://alliancebeulah.org" 54 postMessageTest.html:29:3
+Sent! "http://allianz.com.au" 55 postMessageTest.html:29:3
+Sent! "http://almamaterstore.in" 56 postMessageTest.html:29:3
+Sent! "http://amaderforum.com" 57 postMessageTest.html:29:3
+Sent! "http://amandapics.com" 58 postMessageTest.html:29:3
+Sent! "http://amazon.com" 59 postMessageTest.html:29:3
+Sent! "http://amazon.com.au" 60 postMessageTest.html:29:3
+Sent! "http://amazon.co.uk" 61 postMessageTest.html:29:3
+Sent! "http://amazon.fr" 62 postMessageTest.html:29:3
+Sent! "http://ambargris.net" 63 postMessageTest.html:29:3
+=============================================================================================================================== cookieconsent.latest.min.js:8:4
+
+"This version of Cookie Consent has been removed. See https://silktide.com/really-important-update-to-users-of-cookie-consent-2/" cookieconsent.latest.min.js:8:15
+
+=============================================================================================================================== cookieconsent.latest.min.js:8:26
+
+Sent! "http://amiclubwear.com" 64 postMessageTest.html:29:3
+Sent! "http://am-online.com" 65 postMessageTest.html:29:3
+Sent! "http://angara.com" 66 postMessageTest.html:29:3
+Sent! "http://animalcarecollege.info" 67 postMessageTest.html:29:3
+Sent! "http://annuairepourlesnuls.fr" 68 postMessageTest.html:29:3
+Sent! "http://anonymous.org.il" 69 postMessageTest.html:29:3
+Sent! "http://ant.com" 70 postMessageTest.html:29:3
+"Sent!" undefined 0 postMessageTest.html:29:2
+"[cycle] terminating; zero elements found by selector" script.min.js:5:31297
+"Global Data Layer START" 56d7c34e042208bfea398881120d4b8c.js:3:139
+"Bootstrapper.dataManager is defined!" 56d7c34e042208bfea398881120d4b8c.js:3:207
+Object { title: "Car and Driver", author: "car & driver us staff", canonical: "http://www.caranddriver.com/", publishDate: "", imageUrl: "", section: "landing", subSection: "homepage", fullUrl: "http://www.caranddriver.com/", articleId: "55586", modDate: "", 24 more… } fbe8416e4b72fee278fc25c76c83d9d2.js:92:330
+"Sent!" "http://cararac.com" 1 postMessageTest.html:29:2
+"Sent!" "http://caravancampingsales.com.au" 2 postMessageTest.html:29:2
+"[cycle] terminating; too few slides: 1" package-1-min.js:150:103
+"Sent!" "http://carcovers.com" 3 postMessageTest.html:29:2
+"Sent!" "http://cardboardcutouts.com" 4 postMessageTest.html:29:2
+"Sent!" "http://cardfellow.com" 5 postMessageTest.html:29:2
+"Sent!" "http://careerbilla.com" 6 postMessageTest.html:29:2
+"Sent!" "http://careercenter.am" 7 postMessageTest.html:29:2
+"Sent!" "http://careerliaison.com" 8 postMessageTest.html:29:2
+"Dialogs (Angular-Translate): OK" aim-careerlink-mobile.js:61:489
+"Dialogs: Using Font-Awesome Icons" aim-careerlink-mobile.js:61:6290
+"Sent!" "http://careerlink.com" 9 postMessageTest.html:29:2
+"Sent!" "http://careerplanner.com" 10 postMessageTest.html:29:2
+"Sent!" "http://careerride.com" 11 postMessageTest.html:29:2
+"Sent!" "http://careersji.com" 12 postMessageTest.html:29:2
+"Sent!" "http://careerwebsite.com" 13 postMessageTest.html:29:2
+"Sent!" "http://careerwebsite.com" 14 postMessageTest.html:29:2
+"[cycle2] --c2 init--" jquery.cycle2.core.js:573:8
+"[cycle2] pagerTemplate: <li><a href=#></a></li> (string)" jquery.cycle2.core.js:573:8
+"[cycle2] fx: cross-fade (string)" jquery.cycle2.core.js:573:8
+"[cycle2] pager: #country-home-pager (string)" jquery.cycle2.core.js:573:8
+"[cycle2] timeout: 7000 (number)" jquery.cycle2.core.js:573:8
+"[cycle2] manualSpeed: 1500 (number)" jquery.cycle2.core.js:573:8
+"[cycle2] speed: 1500 (number)" jquery.cycle2.core.js:573:8
+"[cycle2] pauseOnHover: true (boolean)" jquery.cycle2.core.js:573:8
+"[cycle2] paused: false (boolean)" jquery.cycle2.core.js:573:8
+"[cycle2] slides: .country-home-slide (string)" jquery.cycle2.core.js:573:8
+"[cycle2] --c2 init--" jquery.cycle2.core.js:573:8
+"[cycle2] next: #marquee300next-region26_element3 (string)" jquery.cycle2.core.js:573:8
+"[cycle2] prev: #marquee300prev-region26_element3 (string)" jquery.cycle2.core.js:573:8
+"[cycle2] captionTemplate: {{slideNum}}/{{slideCount}} (string)" jquery.cycle2.core.js:573:8
+"[cycle2] slides: .mod-marquee-300-slide-region26_element3 (string)" jquery.cycle2.core.js:573:8
+"[cycle2] caption: #marquee-300-slide-info-region26_element3 (string)" jquery.cycle2.core.js:573:8
+"[cycle2] timeout: 0 (number)" jquery.cycle2.core.js:573:8
+"[cycle2] easing: easeInOutExpo (string)" jquery.cycle2.core.js:573:8
+"[cycle2] fx: scrollHorz (string)" jquery.cycle2.core.js:573:8
+"[cycle2] autoHeight: calc (string)" jquery.cycle2.core.js:573:8
+"Sent!" "http://cargill.com" 15 postMessageTest.html:29:2
+"Sent!" "http://cargo-works.com" 16 postMessageTest.html:29:2
+"[cycle2] --c2 init--" jquery.cycle2.js:608:8
+"[cycle2] timeout: 4000 (number)" jquery.cycle2.js:608:8
+"[cycle2] fx: tileSlide (string)" jquery.cycle2.js:608:8
+"[cycle2] slides: > a (string)" jquery.cycle2.js:608:8
+"[cycle2] tileVertical: false (boolean)" jquery.cycle2.js:608:8
+"[cycle2] tileCount: 7 (number)" jquery.cycle2.js:608:8
+"Sent!" "http://carigold.com" 17 postMessageTest.html:29:2
+"Error: WWW.CARLHANSEN.COM is not a valid domain. Please add it to the cookie manager to authorize the domain." cc.js:1:29
+"Sent!" "http://carlist.my" 18 postMessageTest.html:29:2
+"Sent!" "http://carlonsales.com" 19 postMessageTest.html:29:2
+"duplicate in.js loaded, any parameters will be ignored" in.js:5:65
+"duplicate in.js loaded, any parameters will be ignored" in.js:5:65
+"duplicate in.js loaded, any parameters will be ignored" in.js:5:65
+"duplicate in.js loaded, any parameters will be ignored" in.js:5:65
+"duplicate in.js loaded, any parameters will be ignored" in.js:5:65
+"duplicate in.js loaded, any parameters will be ignored" in.js:5:65
+"duplicate in.js loaded, any parameters will be ignored" in.js:5:65
+"duplicate in.js loaded, any parameters will be ignored" in.js:5:65
+"duplicate in.js loaded, any parameters will be ignored" in.js:5:65
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Sent!" "http://carmudi.ae" 20 postMessageTest.html:29:2
+"Sent!" "http://carolenash.com" 21 postMessageTest.html:29:2
+"Sent!" "http://carparts4less.co.uk" 22 postMessageTest.html:29:2
+"Sent!" "http://carparts.com" 23 postMessageTest.html:29:2
+"Sent!" "http://carpetright.co.uk" 24 postMessageTest.html:29:2
+"Sent!" "http://carrentallocationdauto.ca" 25 postMessageTest.html:29:2
+"Sent!" "http://carsales.com.au" 26 postMessageTest.html:29:2
+"Sent!" "http://carsalesnetwork.com.au" 27 postMessageTest.html:29:2
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Sent!" "http://carsbellingham.com" 28 postMessageTest.html:29:2
+"Signal: error: {"type":"script","message":"Problem loading //bat.bing.com/bat.js","tagId":-1}" tag.js:2:285
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"===============================================================================================================================" cookieconsent.latest.min.js:8:3
+
+"This version of Cookie Consent has been removed. See https://silktide.com/really-important-update-to-users-of-cookie-consent-2/" cookieconsent.latest.min.js:8:14
+
+"===============================================================================================================================" cookieconsent.latest.min.js:8:25
+
+"Pageview registered." ga-async-2014.17.js:29:26
+"FloatingBar:: headerbar CSS loaded" headerbar-social-v4-2015-07-27.min.js:1:17703
+"FloatingBar:: Building Markup" headerbar-social-v4-2015-07-27.min.js:1:17703
+"FloatingBar::  -> Left Block built" headerbar-social-v4-2015-07-27.min.js:1:17703
+"FloatingBar::  -> Right Block built" headerbar-social-v4-2015-07-27.min.js:1:17703
+"Qualaroo script injected." www.carsdirect.com:20:366
+"Message from worker" sca.js:13:334
+Object { src: "c7304d", workerStart: 1449193371918, count: 0, result: "70cc89e519de07485f7c810605353b9c4d6…", workerEnd: 1449193371920 } sca.js:13:369
+"Message from worker" sca.js:13:334
+Object { target: "4c5", src: "c7304d", cap: 1000000, workerStart: 1449193372043, count: 4419, result: "4c5b23e229d76c683122edb1c33c05295a8…", workerEnd: 1449193372170 } sca.js:13:369
+"Message from worker" sca.js:13:334
+Object { target: "c58", src: "c7304d", cap: 1000000, workerStart: 1449193372184, count: 381, result: "c582f63b68afb6db37b28cd6f4c3a3d4c68…", workerEnd: 1449193372230 } sca.js:13:369
+"Message from worker" sca.js:13:334
+Object { target: "8c2", src: "c7304d", cap: 1000000, workerStart: 1449193372184, count: 2840, result: "8c241cd503cfbee9e4b5cdb93cced6bc494…", workerEnd: 1449193372307 } sca.js:13:369
+"Message from worker" sca.js:13:334
+Object { target: "c2c", src: "c7304d", cap: 1000000, workerStart: 1449193372184, count: 6280, result: "c2c47c7f96cc503762b87e4f7edbb9c6a82…", workerEnd: 1449193372389 } sca.js:13:369
+"Message from worker" sca.js:13:334
+Object { target: "58c", src: "c7304d", cap: 1000000, workerStart: 1449193372185, count: 7934, result: "58c215b4e1503301e75b6fc946bc13dca5d…", workerEnd: 1449193372443 } sca.js:13:369
+"Sent!" "http://carsnip.com" 29 postMessageTest.html:29:2
+"Sent!" "http://cars-on-line.com" 30 postMessageTest.html:29:2
+"Sent!" "http://carsrus.com.au" 31 postMessageTest.html:29:2
+"Sent!" "http://cartafinanciera.com" 32 postMessageTest.html:29:2
+"Error: u.data is null
+n/h.handleServerError@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:487182
+n/<@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:487121
+cl/this.$get</w.prototype.$emit@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:111920
+n/<.responseError@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:464709
+l/<@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:103991
+cl/this.$get</w.prototype.$eval@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:110987
+cl/this.$get</w.prototype.$digest@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:109545
+cl/this.$get</w.prototype.$apply@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:111267
+rt@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:88383
+tt@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:90556
+dc/</s@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:91153
+" undefined homepage:1:99254
+
+"Error: u.data is null
+n/h.handleServerError@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:487182
+n/<@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:487121
+cl/this.$get</w.prototype.$emit@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:111920
+n/<.responseError@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:464709
+l/<@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:103991
+cl/this.$get</w.prototype.$eval@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:110987
+cl/this.$get</w.prototype.$digest@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:109545
+cl/this.$get</w.prototype.$apply@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:111267
+rt@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:88383
+tt@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:90556
+dc/</s@http://www.carvana.com/bundles/spa/homepage?v=yPo4VnCgTexcZf5PsALKaRRIGBrjue517e-TUDTGn7c1:1:91153
+" undefined homepage:1:99254
+
+"Signal: error: {"type":"script","message":"Problem loading //s.thebrighttag.com/tag?site=8QAs0PZ&H=-86pacc&parentReferrer=http%3A%2F%2Fwww.casa.com%2F&cf=87198&_cb_bt_data('customer%20number')=00000000-0000-0000-0000-000000000000&_cb_bt_data('repeat%20buyer')=&mode=v1","tagId":-2}" tag.js:2:285
+"Sent!" "http://casadejorgesalsa.com" 33 postMessageTest.html:29:2
+"Sent!" "http://casasespania.com" 34 postMessageTest.html:29:2
+"The method setTrackerUrl is registered more than once in "paq" variable. Only the last call has an effect. Please have a look at the multiple Piwik trackers documentation: http://developer.piwik.org/guides/tracking-javascript-guide#multiple-piwik-trackers" piwik.js:52:857
+
+"The method setSiteId is registered more than once in "paq" variable. Only the last call has an effect. Please have a look at the multiple Piwik trackers documentation: http://developer.piwik.org/guides/tracking-javascript-guide#multiple-piwik-trackers" piwik.js:52:857
+
+"The method enableLinkTracking is registered more than once in "paq" variable. Only the last call has an effect. Please have a look at the multiple Piwik trackers documentation: http://developer.piwik.org/guides/tracking-javascript-guide#multiple-piwik-trackers" piwik.js:52:857
+
+"Sent!" "http://cashbackwatch.com" 35 postMessageTest.html:29:2
+"Sent!" "http://cashkaro.com" 36 postMessageTest.html:29:2
+"Sent!" "http://cashkaro.com" 37 postMessageTest.html:29:2
+"Sent!" "http://cashnet.com" 38 postMessageTest.html:29:2
+"Sent!" "http://cashnhits.com" 39 postMessageTest.html:29:2
+"Sent!" "http://cashtrackbar.com" 40 postMessageTest.html:29:2
+"Error: welcome banner not loaded" home.js:1:178
+"Sent!" "http://casperjs.org" 41 postMessageTest.html:29:2
+"Sent!" "http://caspio.com" 42 postMessageTest.html:29:2
+"Sent!" "http://castingfrontier.com" 43 postMessageTest.html:29:2
+"donotshow" null jquery.smartbanner.min.js:1:1163
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"You must bind Parsley on an existing element." plugins.8af454acbf31e43399863670a38f46ee.js:1005:43253
+"Sent!" "http://catalinaop.com" 44 postMessageTest.html:29:2
+"[cycle] terminating; zero elements found by selector" cycle.js:21:2
+"Sent!" "http://catchow.com" 45 postMessageTest.html:29:2
+"TRC.Manager.getReferrer : rendering in cross domain iframe" impl.185-5-RELEASE.js:2:717
+"TRC.Manager.getReferrer : rendering in cross domain iframe" impl.185-5-RELEASE.js:2:717
+"Exit TRCRBox.loadScriptCallback(retry=1): no items in response" impl.185-5-RELEASE.js:2:717
+"Sent!" "http://cathinfo.com" 46 postMessageTest.html:29:2
+"Sent!" "http://cathinfo.com" 47 postMessageTest.html:29:2
+"This browser is AJAX compatible" vbulletin-core.js:11:10736
+"Firing System Init" vbulletin-core.js:11:26207
+"Fire vB_XHTML_Ready" vbulletin-core.js:11:29534
+"Fetch Cookie :: vbulletin_collapse (null)" vbulletin-core.js:11:17102
+"[cycle2] --c2 init--" jquery.cycle2.min.js:7:8267
+"Sent!" "http://catholictv.com" 48 postMessageTest.html:29:2
+"Sent!" "http://cathsdirect.com" 49 postMessageTest.html:29:2
+"1" www.cathsdirect.com:578:12
+"2" www.cathsdirect.com:578:12
+"3" www.cathsdirect.com:578:12
+"Sent!" "http://catmktg.co.jp" 50 postMessageTest.html:29:2
+"No suitable players found and fallback enabled" jwplayer.js:11:373
+Error: Permission denied to access property "onfocus"
+Stack trace:
+sb.prototype.te@http://cdn.teads.tv/media/format/v2/all-v2.js?201512320:19:227
+sb@http://cdn.teads.tv/media/format/v2/all-v2.js?201512320:16:577
+@http://cdn.teads.tv/media/format/v2/all-v2.js?201512320:68:163
+@http://cdn.teads.tv/media/format/v2/all-v2.js?201512320:1:1
+ all-v2.js:19:380
+Error: Permission denied to access property "BF_NO_QS"
+Stack trace:
+BF_PARTNER.track_page@http://ct.buzzfeed.com/wd/UserWidget?u=catster.com&to=1&or=vb&wid=1&cb=1449193493320:40:176
+@http://ct.buzzfeed.com/wd/UserWidget?u=catster.com&to=1&or=vb&wid=1&cb=1449193493320:70:3
+@http://ct.buzzfeed.com/wd/UserWidget?u=catster.com&to=1&or=vb&wid=1&cb=1449193493320:59:2
+ UserWidget:73:2
+"Sent!" "http://caviarexperience.com" 51 postMessageTest.html:29:2
+"ran task ticker at priority level 1" queue.min.js:2:46
+"ran task elementSelector at priority level 5" queue.min.js:2:46
+Object { os: Object, device: Object } cbc-stats-bottom.js:2:2821
+"Sent!" "http://cbdfw.com" 52 postMessageTest.html:29:2
+"Sent!" "http://cbhpaper.com" 53 postMessageTest.html:29:2
+"Signal: error: {"type":"script","message":"Problem loading //s.thebrighttag.com/tag?site=vcLP8np&H=24yl789&parentReferrer=http%3A%2F%2Fcbisland.com%2F","tagId":-2}" tag.js:2:285
+ js_3XOk3BHYlBA-zz_CQZIZqD_RrP_Oy8RXEpMbEUQu2TM.js:56:16
+"Sent!" "http://cbpp.org" 54 postMessageTest.html:29:2
+"Sent!" "http://cbsnews.com" 55 postMessageTest.html:29:2
+"ADS: queuing scroll-prestitial-5660efa06c316 for display" www.cbsnews.com:56:41
+"ADS: queuing intromercial-5660efa06c316 for display" www.cbsnews.com:65:41
+"ADS: queuing skin-5660efa06c316 for display" www.cbsnews.com:170:41
+"ADS: queuing leader-plus-top-5660efa06c316 for display" www.cbsnews.com:177:41
+"ADS: queuing sponsor-content-top-5660efa06c316 for display" www.cbsnews.com:984:41
+"ADS: queuing marquee-top-5660efa06c316 for display" www.cbsnews.com:2100:41
+"ADS: queuing mpu-plus-top-5660efa06c316 for display" www.cbsnews.com:2110:41
+"ADS: queuing marquee300-top-5660efa06c316 for display" www.cbsnews.com:2242:41
+"ADS: queuing mpu-bottom-5660efa06c316 for display" www.cbsnews.com:2628:41
+"JQMIGRATE: Logging is active" main.desktop.js:200:114278
+"New DW cookie set, exec sitecat" utag.1.js:119:631
+"Sent!" "http://cbtva.com" 56 postMessageTest.html:29:2
+"Sent!" "http://cbtva.com" 57 postMessageTest.html:29:2
+"Sent!" "http://cchpca.org" 58 postMessageTest.html:29:2
+"Sent!" "http://c-cycling.com" 59 postMessageTest.html:29:2
+"Sent!" "http://cdcoupons.com" 60 postMessageTest.html:29:2
+"init" index.html:200:1
+"Sent!" "http://cdncc.com" 61 postMessageTest.html:29:2
+"Sent!" "http://cdw.ca" 62 postMessageTest.html:29:2
+"Sent!" "http://cdw.com" 63 postMessageTest.html:29:2
+"Sent!" "http://cdwg.com" 64 postMessageTest.html:29:2
+"Sent!" "http://cedarcide.com" 65 postMessageTest.html:29:2
+"****IS DEV****" www.centercode.com:352:2
+"UTC: 2015-12-04 01:47:06" www.centercode.com:353:2
+"PST: 2015-12-03 17:47:06" www.centercode.com:354:2
+"OVERRIDE: not used" www.centercode.com:355:0
+"DEV: Thu Dec 03 2015 17:47:06 GMT-0500 (EST)" www.centercode.com:356:2
+"Day: 4|is business day (0=Sunday, 6=Saturday)" www.centercode.com:357:0
+"Hrs: 17|is business hour" www.centercode.com:358:0
+"Summary: chat should be on, if showing as off this may mean that no one has chat open at this time" www.centercode.com:359:2
+"**************" www.centercode.com:360:2
+"Sent!" "http://centerforsecuritypolicy.org" 66 postMessageTest.html:29:2
+"Sent!" "http://centermanagement.ch" 67 postMessageTest.html:29:2
+"Sent!" "http://centralbargainlot.com" 68 postMessageTest.html:29:2
+"Sent!" "http://centum.ca" 69 postMessageTest.html:29:2
+"Sent!" "http://centumlearning.com" 70 postMessageTest.html:29:2
+"Sent!" "http://century21.com" 71 postMessageTest.html:29:2
+"JQMIGRATE: Logging is active" jquery-migrate-1.1.1.js:21:1
+"JQMIGRATE: jQuery.browser is deprecated" jquery-migrate-1.1.1.js:40:3
+console.trace(): jquery-migrate-1.1.1.js:42
+migrateWarn() jquery-migrate-1.1.1.js:42
+migrateWarnProp/<.get() jquery-migrate-1.1.1.js:57
+$.browserTest() jquery.browser.min.js:1
+<anonymous> jquery.browser.min.js:1
+<anonymous> jquery.browser.min.js:1
+
+"Sent!" "http://century21global.com" 72 postMessageTest.html:29:2
+"Sent!" "http://ce.org" 73 postMessageTest.html:29:2
+"Sent!" "http://cepolina.com" 74 postMessageTest.html:29:2
+"Sent!" "http://ceps.eu" 75 postMessageTest.html:29:2
+"Hotjar script already loaded." hotjar-74213.js:57:35
+"Sent!" "http://cfah.org" 76 postMessageTest.html:29:2
+"[LiveChat] Your account has expired. Visit www.livechatinc.com to sign in and renew your subscription." tracking.js:4:21580
+"VIDEOJS:" "ERROR:" "(CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED)" "No compatible source was found for this video." Object { code: 4, message: "No compatible source was found for …" } video.js:23:202
+
+"Sent!" "http://champssports.com" 77 postMessageTest.html:29:2
+"Sent!" "http://changan.com.mm" 78 postMessageTest.html:29:2
+"Sent!" "http://changeyourflight.com" 79 postMessageTest.html:29:2
+"ibsys.analytics(live: true): GA classic analytics not enabled." core-desktop.js:431:445
+"ibsys.uanalytics(live: true): meta data is valid, initializing analytics." core-desktop.js:583:0
+"jQuery versions loaded: $ib = 1.8.2, jQuery = 1.8.2" core-common-noConflict.js:1:77
+"kWidget: Kaltura HTML5 Version: 2.36" 557781:50:568
+"error adding a9 targeting params: TypeError: googletag.pubads is not a function" client-desktop.js:2:199
+"init userProfile" www.channel3000.com:3693:8
+"getCookie" core-desktop.js:383:65
+"googletag.defineSlot('/3468/ibs.c3k.homepage/homepage', [728,90], "ad-149762-1449193480217").setTargeting('kw',['banner1']).setTargeting('colid',['0']).addService(googletag.companionAds()).addService(google.pubads());" core-common-gpt.js:5:64
+"googletag.defineSlot('/3468/ibs.c3k.homepage/homepage', [980,40], "ad-24734008-1449193480253").setTargeting('kw',['expanding1']).setTargeting('colid',['0']).addService(google.pubads());" core-common-gpt.js:5:64
+"googletag.defineSlot('/3468/ibs.c3k.homepage/homepage', [[300,100],[234,60]], "ad-9688832-1449193480500").setTargeting('kw',['brick']).setTargeting('colid',['0']).addService(google.pubads());" core-common-gpt.js:5:64
+"googletag.defineSlot('/3468/ibs.c3k.homepage/homepage', [300,250], "ad-149768-1449193480514").setTargeting('kw',['square']).setTargeting('colid',['0']).addService(google.pubads());" core-common-gpt.js:5:64
+"googletag.defineSlot('/3468/ibs.c3k.homepage/homepage', [300,250], "ad-149770-1449193480524").setTargeting('kw',['square2']).setTargeting('colid',['0']).addService(google.pubads());" core-common-gpt.js:5:64
+"googletag.defineSlot('/3468/ibs.c3k.homepage/homepage', [[320,240],[320,150],[320,105]], "ad-149740-1449193480673").setTargeting('kw',['spotlighttile1']).setTargeting('colid',['0']).addService(google.pubads());" core-common-gpt.js:5:64
+"googletag.defineSlot('/3468/ibs.c3k.homepage/homepage', [728,90], "ad-149764-1449193480675").setTargeting('kw',['banner2']).setTargeting('colid',['0']).addService(google.pubads());" core-common-gpt.js:5:64
+"googletag.defineOutOfPageSlot('/3468/ibs.c3k.homepage/homepage', [1,1], "ad-25254732-1449193480718").setTargeting('kw',['oop']).setTargeting('colid',['0']).addService(google.pubads());" core-common-gpt.js:5:64
+"Sent!" "http://channel4.com" 80 postMessageTest.html:29:2
+"No movie information" app.min.js:1:20603
+"Width: 300" www.channelnewsasia.com:186:12
+"homeFeatTimeVal: 04 Dec 2015 07:44" application.js:5299:12
+"homeFeatTimeVal: 04 Dec 2015 09:27" application.js:5299:12
+"Sent!" "http://chaosgroup.com" 81 postMessageTest.html:29:2
+"Sent!" "http://charlesdmonroe.com" 82 postMessageTest.html:29:2
+"Sent!" "http://charles-stanley.co.uk" 83 postMessageTest.html:29:2
+"registering player : flowplayer" wf-site-1.0.71-9c5a91b-min.js:34:29691
+"registering player : jwplayer" wf-site-1.0.71-9c5a91b-min.js:34:29691
+"registering player : mediaelement" wf-site-1.0.71-9c5a91b-min.js:34:29691
+"mi_Ads.env.init adinfoVisible=null" mi-wf-site-1.0.71-9c5a91b-min.js:1:90859
+"mistats.sendBeacon: Sent" finalizestats.js:1515:53
+"mi_Ads.env.getOOM finished OOM=true" Object { env: Object, slot: Object, helpers: Object, adInfo: Object, adsOnPageLoad: mi_Ads<.adsOnPageLoad(), adsAfterPageLoad: mi_Ads<.adsAfterPageLoad(), adsOnDemand: mi_Ads<.adsOnDemand() } mi-wf-site-1.0.71-9c5a91b-min.js:1:88841
+"adsOnPageLoad: 12" mi-wf-site-1.0.71-9c5a91b-min.js:1:97640
+"adsAfterPageLoad: 0" mi-wf-site-1.0.71-9c5a91b-min.js:1:98201
+"sync: http://h.ppjol.com/hecate/hecate/lightbox/3/meter.json?z=Xh5RhJyVQq2N5VR4vkpUdb" pp4.js:5:25353
+"A gallery context was searched for the media loader: " Object { length: 0, prevObject: Object, context: <div.wf-media.posterframe-wrapper.> } 0 wf-site-1.0.71-9c5a91b-min.js:34:31196
+"A gallery context was searched for the media loader: " Object { length: 0, prevObject: Object, context: <div.wf-media.posterframe-wrapper.> } 0 wf-site-1.0.71-9c5a91b-min.js:34:31196
+"buildSlots: actual OOM header= true OOM article =false ADINFO override =false pagelevel= homepage" mi-wf-site-1.0.71-9c5a91b-min.js:1:89273
+"Unable to access window.top" circularhub_module.js:16:35
+"Error: Unable to receive media data - " wf-site-1.0.71-9c5a91b-min.js:34:33296
+
+"Sent!" "http://chat-avenue.com" 84 postMessageTest.html:29:2
+"Sent!" "http://chateauchicdirect.com" 85 postMessageTest.html:29:2
+"Sent!" "http://chatropolis.com" 86 postMessageTest.html:29:2
+"Sent!" "http://chatsports.com" 87 postMessageTest.html:29:2
+"Sent!" "http://chattypost.com" 88 postMessageTest.html:29:2
+"Sent!" "http://chatuniverse.net" 89 postMessageTest.html:29:2
+"Sent!" "http://cheapairportparking.org" 90 postMessageTest.html:29:2
+"Sent!" "http://cheapbedsdirect.co.uk" 91 postMessageTest.html:29:2
+"Sent!" "http://cheaperthandirt.com" 92 postMessageTest.html:29:2
+"variation #1, 1.6" 3522233886.js line 411 > eval:1:0
+"Sent!" "http://cheapesttextbooks.com" 93 postMessageTest.html:29:2
+"JQMIGRATE: Logging is active" global-RwYM2g.js:6:90
+"Sent!" "http://cheapflightscorner.co.uk" 94 postMessageTest.html:29:2
+"Sent!" "http://cheaprooms.com" 95 postMessageTest.html:29:2
+"   _____ _                      _____ _                _
+
+  / ____| |                    / ____| |              | |
+
+ | |    | |__   ___  __ _ _ __| (___ | |__   __ _ _ __| | __
+
+ | |    | '_ \ / _ \/ _` | '_ \\___ \| '_ \ / _` | '__| |/ /
+
+ | |____| | | |  __/ (_| | |_) |___) | | | | (_| | |  |   <
+
+  \_____|_| |_|\___|\__,_| .__/_____/|_| |_|\__,_|_|  |_|\_\
+
+                         | |
+
+                         |_|
+
+
+
+                    _________         .    .
+
+                   (..       \_    ,  |\  /|
+
+                    \       0  \  /|  \ \/ /
+
+                     \______    \/ |   \  /
+
+                        vvvv\    \ |   /  |
+
+              $$$$      \^^^^  ==   \_/   |
+
+                         `\_   ===    \.  |
+
+                         / /\_   \ /      |
+
+                         |/   \_  \|      /
+
+                                \________/
+
+
+
+            om nom nom nom - these prices sure are tasty!
+
+
+
+" global.js:2:63
+"Sent!" "http://cheapsslcouponcode.com" 96 postMessageTest.html:29:2
+"Sent!" "http://cheaptickets.com" 97 postMessageTest.html:29:2
+"Sent!" "http://cheaptickets.hk" 98 postMessageTest.html:29:2
+"Sent!" "http://cheaptickets.sg" 99 postMessageTest.html:29:2
+"Sent!" "http://cheatfield.com" 100 postMessageTest.html:29:2
+"Sent!" "http://cheating-slut-wives.tumblr.com" 101 postMessageTest.html:29:2
+"carouFredSel: No element found for "#foo2"." jquery.carouFredSel-6.2.1.js:4232:3
+"Sent!" "http://cheesycharlies.com" 102 postMessageTest.html:29:2
+"Sent!" "http://chefinyou.com" 103 postMessageTest.html:29:2
+"Signal: error: {"type":"script","message":"Problem loading //s.btstatic.com/lib/777ba31c9c6360d7c7cc42f624544dce828859c2.js?v=1","tagId":-1}" tag.js:2:285
+"Signal: error: {"type":"dbe","message":"TypeError: C.global.pageObject.opts is undefined","dbe.name":"hwh_qna_subsubject","pageId":10911}" tag.js:2:285
+"AllPages, Home" tag.js:86:8
+"Sent!" "http://cheley.com" 104 postMessageTest.html:29:2
+scout-to-render: timer started bvapi.js:1
+"" Default.asp:235:4
+"Started" unified.js.asp:796:3
+"Sent!" "http://chemistry.com" 105 postMessageTest.html:29:2
+"Sent!" "http://chennaiclassic.com" 106 postMessageTest.html:29:2
+"Sent!" "http://chennaiiq.com" 107 postMessageTest.html:29:2
+"Sent!" "http://chennaiiq.com" 108 postMessageTest.html:29:2
+"Sent!" "http://cherryberrycosmetics.com" 109 postMessageTest.html:29:2
+"Sent!" "http://cherrynudes.com" 110 postMessageTest.html:29:2
+"Sent!" "http://chess.com" 111 postMessageTest.html:29:2
+"Signal: error: {"type":"script","message":"Problem loading //s.thebrighttag.com/tag?site=3xLRJdY&H=-22i9cyw&parentReferrer=http%3A%2F%2Fwww.chevrolet.com%2F&cf=1012431&_cb_bt_data('brand')=CHEVROLET&mode=v1","tagId":-2}" tag.js:2:285
+"Sent!" "http://chevrolet.com.br" 112 postMessageTest.html:29:2
+"Sent!" "http://chewy.com" 113 postMessageTest.html:29:2
+"Sent!" "http://chiasecoupon.com" 114 postMessageTest.html:29:2
+"false" common.js:1540:3
+undefined main.js:283:8
+285 mainLoad.js:15:7
+"mobileLoaded" mainLoad.js:15:7
+"INF_FPU: Initiated" infinity.js.aspx:1:16055
+"[INFO] - [GMData] - [Setup] Run" data.js:2:24751
+"[INFO] - [GMData] - [FrequencyCookieHandler] Init" data.js:2:24751
+"Sent!" "http://chicagovps.net" 115 postMessageTest.html:29:2
+"Sent!" "http://chickencoopsdirect.com" 116 postMessageTest.html:29:2
+"Sent!" "http://chiefsplanet.com" 117 postMessageTest.html:29:2
+"This browser is AJAX compatible" vbulletin-core.js:1:57777
+"Firing System Init" vbulletin-core.js:1:26186
+"Fire vB_XHTML_Ready" vbulletin-core.js:1:29513
+"Fetch Cookie :: vbulletin_collapse (null)" vbulletin-core.js:1:17089
+"Sent!" "http://chinaitlm.cn" 118 postMessageTest.html:29:2
+"widget analitics" chinapost-track.com:98:20
+"===============================================================================================================================" cookieconsent.latest.min.js:8:3
+
+"This version of Cookie Consent has been removed. See https://silktide.com/really-important-update-to-users-of-cookie-consent-2/" cookieconsent.latest.min.js:8:14
+
+"===============================================================================================================================" cookieconsent.latest.min.js:8:25
+
+"Sent!" "http://chinasearch.co.uk" 119 postMessageTest.html:29:2
+"Sent!" "http://chinesefortunecalendar.com" 120 postMessageTest.html:29:2
+"Sent!" "http://chineseherb.com" 121 postMessageTest.html:29:2
+"Sent!" "http://chinesemenu.com" 122 postMessageTest.html:29:2
+"Sent!" "http://chipotle.com" 123 postMessageTest.html:29:2
+"Sent!" "http://chippmunk.com" 124 postMessageTest.html:29:2
+"Sent!" "http://chisholmhunter.co.uk" 125 postMessageTest.html:29:2
+"Sent!" "http://chivas.com" 126 postMessageTest.html:29:2
+"Sent!" "http://chivas.com" 127 postMessageTest.html:29:2
+"Sent!" "http://chntt.com" 128 postMessageTest.html:29:2
+"Sent!" "http://choicehotels.fr" 129 postMessageTest.html:29:2
+"Sent!" "http://choicehotelsmexico.com" 130 postMessageTest.html:29:2
+"Sent!" "http://choicesflooring.com.au" 131 postMessageTest.html:29:2
+"Sent!" "http://chomsky.info" 132 postMessageTest.html:29:2
+"remi150" global.min.js:1:387
+"featured-item" global.min.js:1:1061
+"child image" global.min.js:1:512
+"Facebook Pixel Warning: Multiple pixels with conflicting versions were detected on this page" fbevents.js:9:1575
+"Facebook Pixel Warning: Multiple different pixels were detected on this page" fbevents.js:9:1575
+"Sent!" "http://chooseveg.com" 133 postMessageTest.html:29:2
+"Sent!" "http://christianbiblereference.org" 134 postMessageTest.html:29:2
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Sent!" "http://christianchat.net" 135 postMessageTest.html:29:2
+"Sent!" "http://christinesrecipes.com" 136 postMessageTest.html:29:2
+"Sent!" "http://christmastreeshops.com" 137 postMessageTest.html:29:2
+"window.isKioskMode: undefined" Bootstrap.js:419:228
+"Sent!" "http://chrisweigant.com" 138 postMessageTest.html:29:2
+"Sent!" "http://chromasia.com" 139 postMessageTest.html:29:2
+Object { title: "Home", author: "houston chronicle staff", canonical: "http://www.chron.com/", publishDate: "2011-06-09 19:32:00", imageUrl: "http://www.chron.com/img/pages/arti…", section: "Home", subSection: "", fullUrl: "http://www.chron.com/", articleId: "6329", modDate: "", 24 more… } 27d44ec4b1fe14b32434b59d4871ecce.js:104:330
+"ENS: Loading Omni Config..." 27d44ec4b1fe14b32434b59d4871ecce.js:105:172
+"ENS: Loading Omni s_code..." 27d44ec4b1fe14b32434b59d4871ecce.js:132:139
+"ENS: Loading Omni Global Events..." 27d44ec4b1fe14b32434b59d4871ecce.js:256:172
+"ENS: Loading Omni Main..." 27d44ec4b1fe14b32434b59d4871ecce.js:231:172
+"ENS: Loading Omni Helpers..." 27d44ec4b1fe14b32434b59d4871ecce.js:286:172
+Object { pageName: "HomePage", channel: "home", events: "event16", rsid: "hearsthoustonchron", intlinks: "javascript:,chron.com,29-95.com,fue…", tracker: "metrics.chron.com", stracker: "smetrics.chron.com", tz: "C", mainDomain: "http://www.chron.com/", platform: "wcm", 64 more… } 27d44ec4b1fe14b32434b59d4871ecce.js:251:297
+"siteHeader initialized" global.bottom.r6.28.0.15.js:35:331
+"cas.actions.setPageTrackVariables is deprecated. this was called from
+function (){cas.actions.setPageTrackVariables(String.format("/{0}/{1}/drlp/{2}{3}/currentoffers/index.html",cllc.config.brand,window.location.hostname.indexOf("es.")==0?"es":"en",cllc.context.get("year"),(cllc.context.get("vehicle")?"/"+cllc.context.get("vehicle"):"")),true,true)}" tracking.js:1:841
+"Adobe analytics initialized, use DATALAYER to set/get pageTrack info or linkTrack" dataLayer.js:1:146
+"Sent!" "http://chryslercurrentoffers.com" 140 postMessageTest.html:29:2
+"Sent!" "http://churchill-knight.co.uk" 141 postMessageTest.html:29:2
+"Sent!" "http://churchmedia.net" 142 postMessageTest.html:29:2
+"[LiveChat] Your account has expired. Visit www.livechatinc.com to sign in and renew your subscription." tracking.js:4:21580
+"user false email false modal true" google-experiments.js:87:8
+"Sent!" "http://cigarfamily.com" 143 postMessageTest.html:29:2
+"Sent!" "http://cil.ca" 144 postMessageTest.html:29:2
+"Sent!" "http://cimplebox.com" 145 postMessageTest.html:29:2
+"DFP integration is not done" afph.js:1:5843
+"ixu160rr=1" afpf.js:1:4981
+"ix160lr=1" afpf.js:1:4981
+"ix300sl=1" afpf.js:1:4981
+"ix728in=1" afpf.js:1:4981
+"Sent!" "http://cipfa.org" 146 postMessageTest.html:29:2
+"[cycle] terminating; too few slides: 1" jquery.cycle.min.js:10:181
+" [  0.001s] [studio.sdk] " Enabler.js:100:254
+" [  0.003s] [studio.sdk] " Enabler.js:100:254
+"Sent!" "http://citic.com" 147 postMessageTest.html:29:2
+"[cycle] terminating; too few slides: 1" jquery.cycle.js:16:147
+"JQMIGRATE: Logging is active" jquery-migrate-1.2.1.min.js:1:0
+"Sent!" "http://citycardriving.com" 148 postMessageTest.html:29:2
+"Sent!" "http://citydiscountsqueensland.com.au" 149 postMessageTest.html:29:2
+"Sent!" "http://cityfos.com" 150 postMessageTest.html:29:2
+"Sent!" "http://city-journal.org" 151 postMessageTest.html:29:2
+"Sent!" "http://citynews.com" 152 postMessageTest.html:29:2
+"Sent!" "http://city-sightseeing.com" 153 postMessageTest.html:29:2
+"Sent!" "http://citywinery.com" 154 postMessageTest.html:29:2
+Arguments { 0: "SPX exception", 1: Error, 2 more… } forums:1:134
+"Error: Invalid state ref ''
+v@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:9:7906
+x/<.link@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:9:8216
+q@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:13851
+h@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:10060
+D/<@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:9729
+G/<@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:10474
+n@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:12369
+df</<.link/<@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:7:22746
+zc/this.$get</k.prototype.$digest@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:6:9965
+zc/this.$get</k.prototype.$apply@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:6:11315
+f@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:23889
+r@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:25926
+Yb/</w.onreadystatechange@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:26468
+" "<a ng-if="buttonLabel1.length" ui-sref="{{ sref1 }}" ng-href="{{ link1 }}" ng-click="onButton1Click( $event )" class="link feature-button inline-block uppercase b coloring bordered transparent-border bordered-when-hovered transitions less t-margin lr-margin ng-scope">" all-97a4580a17cb3fbaff536f52cecc6eeb.js:6:1141
+
+"Error: Invalid state ref ''
+v@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:9:7906
+x/<.link@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:9:8216
+q@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:13851
+h@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:10060
+D/<@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:9729
+G/<@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:10474
+n@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:12369
+df</<.link/<@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:7:22746
+zc/this.$get</k.prototype.$digest@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:6:9965
+zc/this.$get</k.prototype.$apply@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:6:11315
+f@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:23889
+r@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:25926
+Yb/</w.onreadystatechange@http://www.civilization.com/themes/site/js/all-97a4580a17cb3fbaff536f52cecc6eeb.js:5:26468
+" "<a ng-if="! videoId.length &amp;&amp; buttonLabel2.length" ui-sref="{{ sref2 }}" ng-href="{{ link2 }}" ng-click="onButton2Click( $event )" class="link feature-button inline-block uppercase b coloring bordered transparent-border bordered-when-hovered transitions less t-margin lr-margin ng-scope">" all-97a4580a17cb3fbaff536f52cecc6eeb.js:6:1141
+
+"Sent!" "http://clanshelper.com" 155 postMessageTest.html:29:2
+Error: Permission denied to access property "Squarespace"
+Stack trace:
+@http://www.clarehaxby.com/:48:1
+@http://www.clarehaxby.com/:48:15
+@http://www.clarehaxby.com/:48:2
+ www.clarehaxby.com:48:382
+
+"yui: NOT loaded: squarespace-social-buttons" common-35cd74228a083f6108b1-min.js:1190:433
+Error: Permission denied to access property "Squarespace"
+Stack trace:
+@http://clare-haxby.squarespace.com/:48:1
+@http://clare-haxby.squarespace.com/:48:15
+@http://clare-haxby.squarespace.com/:48:2
+ clare-haxby.squarespace.com:48:382
+
+"yui: NOT loaded: squarespace-social-buttons" common-35cd74228a083f6108b1-min.js:1190:433
+"mobilecheck = d" clarks.js line 3 > Function:24:1
+"subscribe: PageContentUpdated" asset.axd:708:161
+"Loading HeaderWidgetView as header" asset.axd:3020:375
+"subscribe: UpdatedBasket" asset.axd:708:161
+"subscribe: LoggedIn" asset.axd:708:161
+"subscribe: UpdatedBasket" asset.axd:708:161
+"subscribe: LoggedIn" asset.axd:708:161
+"failed to get flyouts" asset.axd:3020:4065
+"subscribe: PageContentUpdated" asset.axd:708:161
+"Sent!" "http://classi4au.com" 156 postMessageTest.html:29:2
+"Sent!" "http://classi4u.com" 157 postMessageTest.html:29:2
+"Sent!" "http://classicalgasmotors.com" 158 postMessageTest.html:29:2
+"Sent!" "http://classicsonline.com" 159 postMessageTest.html:29:2
+"Sent!" "http://classicstyletravel.com" 160 postMessageTest.html:29:2
+"cookname: onvideo-92dc36ee534cb91ddaa395b2335718b5" work.js line 1 > eval:1:35
+"scriptlerimi yukledim oynamaya basliyorum" work.js line 1 > eval:1:35
+"basladim yavrucum" work.js line 1 > eval:1:35
+"smart_pub=1 cunku:: smcount: 0 - freq:100000" work.js line 1 > eval:1:35
+"iframe: 728-90" work.js line 1 > eval:1:35
+"iframe: 160-600" work.js line 1 > eval:1:35
+"iframe: 1-1" work.js line 1 > eval:1:35
+"smart_pub=1 devam ediyore" work.js line 1 > eval:1:35
+"Sent!" "http://classifiedadssite.com" 161 postMessageTest.html:29:2
+"Sent!" "http://classifiedsforfree.biz" 162 postMessageTest.html:29:2
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Sent!" "http://classifiedsfree.co.uk" 163 postMessageTest.html:29:2
+"Sent!" "http://classmarker.com" 164 postMessageTest.html:29:2
+"Sent!" "http://classmates.com" 165 postMessageTest.html:29:2
+"Sent!" "http://classmeds.com" 166 postMessageTest.html:29:2
+"Sent!" "http://claytonautosinc.com" 167 postMessageTest.html:29:2
+"Sent!" "http://claytons-pnb.com" 168 postMessageTest.html:29:2
+"===============================================================================================================================" cookieconsent.latest.min.js:8:3
+
+"This version of Cookie Consent has been removed. See https://silktide.com/really-important-update-to-users-of-cookie-consent-2/" cookieconsent.latest.min.js:8:14
+
+"===============================================================================================================================" cookieconsent.latest.min.js:8:25
+
+"Sent!" "http://clearbags.com" 169 postMessageTest.html:29:2
+"Sent!" "http://clearlakebargainfurniture.com" 170 postMessageTest.html:29:2
+ libs.min.v693915.js:642:15
+"Sent!" "http://clearviewaudio.com" 171 postMessageTest.html:29:2
+ homepage_res.js:24:1
+"Parsel.ly code not fired on MT Preview" utag.3843.js:4:368
+"qvalue is:undefined" utag.3834.js:2:357
+"Sent!" "http://clevermarket.gr" 172 postMessageTest.html:29:2
+"Sent!" "http://clexams.com" 173 postMessageTest.html:29:2
+"Sent!" "http://clicads.com" 174 postMessageTest.html:29:2
+"wp-position - GPTAD_PIXEL_AD_0" main-header.js:1:27327
+"wp-position - GPTAD_LEADER_BOARD_0" main-header.js:1:27327
+"wp-position - GPTAD_RIGHT1_0" main-header.js:1:27327
+"wp-position - GPTAD_RIGHT2_0" main-header.js:1:27327
+"wp-position - GPTAD_RIGHT1_1" main-header.js:1:27327
+"wp-position - GPTAD_RIGHT1_2" main-header.js:1:27327
+"wp-position - GPTAD_RIGHT1_3" main-header.js:1:27327
+"wp-position - GPTAD_RIGHT1_4" main-header.js:1:27327
+"wp-position - GPTAD_AUTO_INCREASE_0" main-header.js:1:27327
+"wp-position - GPTAD_AUTO_INCREASE_1" main-header.js:1:27327
+"Rendering Page Ads.
+	[GPTAD_PIXEL_AD_0]
+	[GPTAD_LEADER_BOARD_0]
+	[GPTAD_RIGHT1_0]
+	[GPTAD_RIGHT2_0]
+	[GPTAD_RIGHT1_1]
+	[GPTAD_RIGHT1_2]
+	[GPTAD_RIGHT1_3]
+	[GPTAD_RIGHT1_4]
+	[GPTAD_AUTO_INCREASE_0]
+	[GPTAD_AUTO_INCREASE_1]
+		[10 ad slots]" main-header.js:1:28620
+"Sent!" "http://clickactiontraffic.com" 175 postMessageTest.html:29:2
+"Sent!" "http://clickclaims.com" 176 postMessageTest.html:29:2
+"This version of Unslider is due to be deprecated by December 1. Please visit unslider.com for details on how to upgrade." unslider.min.js:1:16
+"Sent!" "http://clickdrivemedia.com" 177 postMessageTest.html:29:2
+"" www.clickdubai.com:72:1
+"Sent!" "http://click.in" 178 postMessageTest.html:29:2
+"Sent!" "http://clickme.cu.cc" 179 postMessageTest.html:29:2
+"Sent!" "http://clickmein.com" 180 postMessageTest.html:29:2
+"Sent!" "http://clickorreturnemailwiz.com" 181 postMessageTest.html:29:2
+"Sent!" "http://clickpress.com" 182 postMessageTest.html:29:2
+"[cycle2] --c2 init--" jquery.cycle2.min.js:7:8267
+"Sent!" "http://clicksnm.com" 183 postMessageTest.html:29:2
+"Sent!" "http://clicktime.com" 184 postMessageTest.html:29:2
+"Sent!" "http://clientcopia.com" 185 postMessageTest.html:29:2
+"Sent!" "http://climatepolicyinitiative.org" 186 postMessageTest.html:29:2
+"Sent!" "http://climatepolicyinitiative.org" 187 postMessageTest.html:29:2
+"===============================================================================================================================" cookieconsent.latest.min.js:8:3
+
+"This version of Cookie Consent has been removed. See https://silktide.com/really-important-update-to-users-of-cookie-consent-2/" cookieconsent.latest.min.js:8:14
+
+"===============================================================================================================================" cookieconsent.latest.min.js:8:25
+
+"Sent!" "http://clipcanvas.com" 188 postMessageTest.html:29:2
+"Sent!" "http://clipconverter.cc" 189 postMessageTest.html:29:2
+"Sent!" "http://cliphunter.com" 190 postMessageTest.html:29:2
+"Sent!" "http://clipmonster.net" 191 postMessageTest.html:29:2
+"Sent!" "http://clipshrine.com" 192 postMessageTest.html:29:2
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Sent!" "http://cliqs.com" 193 postMessageTest.html:29:2
+"Sent!" "http://clixsense.com" 194 postMessageTest.html:29:2
+"Sent!" "http://clker.com" 195 postMessageTest.html:29:2
+"Sent!" "http://clockodo.com" 196 postMessageTest.html:29:2
+"Sent!" "http://clockworks.com" 197 postMessageTest.html:29:2
+"BHPN: 21:00:23.923: script started (0ms from script start - 1449194423923)" blogherads.js:15:47
+"BHPN: 21:00:23.925: Creating slot with type Top in container oas_Top (2ms from script start - 1449194423925)" blogherads.js:15:47
+"BHPN: 21:00:24.139: Targeting retrieval completed for audsci_pg (216ms from script start - 1449194424139)" blogherads.js:15:47
+"BHPN: 21:00:24.164: Targeting retrieval completed for ybot (241ms from script start - 1449194424164)" blogherads.js:15:47
+"BHPN: 21:00:24.238: Targeting retrieval completed for amzn (315ms from script start - 1449194424238)" blogherads.js:15:47
+"BHPN: 21:00:25.459: Failsafe timer expired, calling DFP (1536ms from script start - 1449194425459)" blogherads.js:15:47
+"BHPN: 21:00:25.459: Making initial DFP call (1536ms from script start - 1449194425459)" blogherads.js:15:47
+"BHPN: 21:00:25.462: Calling display for Top/oas_Top (1539ms from script start - 1449194425462)" blogherads.js:15:47
+"BHPN: 21:00:25.535: Creating slot with type Middle in container oas_Middle (1612ms from script start - 1449194425535)" blogherads.js:15:47
+"BHPN: 21:00:25.536: Calling display for Middle/oas_Middle (1613ms from script start - 1449194425536)" blogherads.js:15:47
+"BHPN: 21:00:25.715: Slot Top/oas_Top has been rendered (1792ms from script start - 1449194425715)" blogherads.js:15:47
+"BHPN: 21:00:26.424: Slot Middle/oas_Middle has been rendered (2501ms from script start - 1449194426424)" blogherads.js:15:47
+"BHPN: 21:00:27.001: Creating slot with type Left in container oas_Left (3078ms from script start - 1449194427001)" blogherads.js:15:47
+"BHPN: 21:00:27.001: Calling display for Left/oas_Left (3078ms from script start - 1449194427001)" blogherads.js:15:47
+"BHPN: 21:00:27.744: Slot Left/oas_Left has been rendered (3821ms from script start - 1449194427744)" blogherads.js:15:47
+"BHPN: 21:00:31.462: domready fired (7539ms from script start - 1449194431462)" blogherads.js:15:47
+"BHPN: 21:00:31.464: WARNING: Element defined by selector " div.recipe_post > div.recipe" was not found.  Unable to inject ad x70. (7541ms from script start - 1449194431464)" blogherads.js:15:47
+"191 Animations" animations.min.js:7:1518
+Arguments { 0: "SPX exception", 1: Error, 2 more… } index.php:1:134
+"Sent!" "http://clumsycrooks.com" 198 postMessageTest.html:29:2
+"Sent!" "http://cmemag.com" 199 postMessageTest.html:29:2
+"Sent!" "http://cmu.edu" 200 postMessageTest.html:29:2
+"Sent!" "http://cmyip.com" 201 postMessageTest.html:29:2
+"Sent!" "http://cnccookbook.com" 202 postMessageTest.html:29:2
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Facebook Pixel Warning: Multiple pixels with conflicting versions were detected on this page" fbevents.js:9:1575
+"Sent!" "http://coachhouserv.com" 203 postMessageTest.html:29:2
+"Sent!" "http://coastalgapropertydeals.com" 204 postMessageTest.html:29:2
+"GPT LOADED" www.coastalliving.com:153:0
+"GPT LOADED" www.coastalliving.com:169:0
+"Sent!" "http://coasttocoastam.com" 205 postMessageTest.html:29:2
+"Sent!" "http://cobourg.ca" 206 postMessageTest.html:29:2
+"Sent!" "http://coca-cola.com" 207 postMessageTest.html:29:2
+"Sent!" "http://coca-colacompany.com" 208 postMessageTest.html:29:2
+"Sent!" "http://coca-cola.ua" 209 postMessageTest.html:29:2
+"JQuery needs to be defined for header-notifications" header-notifications.js:1:83
+"JQuery needs to be defined for header-notifications" header-notifications.js:1:83
+"JQMIGRATE: jQuery.browser is deprecated" common-efeecaa679aa6112eb4adc20c32e4649.js:1:115039
+"Sent!" "http://codecanyon.net" 210 postMessageTest.html:29:2
+"Sent!" "http://codecguide.com" 211 postMessageTest.html:29:2
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Sent!" "http://codekiem.com" 212 postMessageTest.html:29:2
+"Sent!" "http://coderfactory.com" 213 postMessageTest.html:29:2
+"ayads tag in cross domain iframe" Error: Permission denied to access property "document"
+Stack trace:
+@http://ads.ayads.co/ajs.php?zid=4865:3:64012
+@http://ads.ayads.co/ajs.php?zid=4865:3:7
+ ajs.php:3:64035
+"ayads criteo result" Object { response_status: 1, status_message: "" } ajs.php:3:17942
+"ayads sticky" ajs.php:3:23794
+"ayads vast response" XMLDocument 200 ajs.php:3:24603
+"ayads videoElement" null ajs.php:3:27376
+"ayads clickElement" null ajs.php:3:27423
+"ayads improve:720601: response" <a target="_blank" href="http://ad.360yield.com/click/LvxFCfhDSMqAeOflejc6I55TENa2afTa-lZfRqhCJLCPprw618z-dd6cTjOeYtYLKBkrnGCxJ2tnK4TuSuLtzsnwO7hBBy642vixEmi0laGL0S3fdKxNORUXOKnx46WQ5CvkjvvFEE2hFlqvm8GxZnIvc2nJULMHO7M2WTtIh5oSePdvhDiqfm8POBKzcxTfg97iSjAzRteIzK5mVnNAloW7cfNuydp9oVKUc-fu3GlItGwDH7zsRWyKLeP2nFTCXHk-CH0F6cFv506Iusk3OI0-9HOShzjLl3hriJgNPhsp5qqqyCujyIUqgrtmP3cpb6Wbnpe2g5.tt15tWHm5Gc5Q63cks2vOoWR54CDAso7oTnwpLwrlK8CEhgiF3j.-ATo3tcA997m8nV0sQnwNiw==//http%3A%2F%2Fimprovedigital.com" style="display: none;"> ajs.php:3:19772
+"ayads passback" ajs.php:3:63887
+"Sent!" "http://codicerisparmio.it" 214 postMessageTest.html:29:2
+"Sent!" "http://coffeeforless.com" 215 postMessageTest.html:29:2
+"Sent!" "http://coffeejp.com" 216 postMessageTest.html:29:2
+"Sent!" "http://cognitocrm.com" 217 postMessageTest.html:29:2
+"Sent!" "http://coinhd.com" 218 postMessageTest.html:29:2
+"Sent!" "http://cokesbury.com" 219 postMessageTest.html:29:2
+"Sent!" "http://colchester-zoo.com" 220 postMessageTest.html:29:2
+"Sent!" "http://coleinvestorsproperties.com" 221 postMessageTest.html:29:2
+"Sent!" "http://colemanequip.com" 222 postMessageTest.html:29:2
+"Sent!" "http://colescareers.com.au" 223 postMessageTest.html:29:2
+"Sent!" "http://collaterate.com" 224 postMessageTest.html:29:2
+"Sent!" "http://collectplus.co.uk" 225 postMessageTest.html:29:2
+"Sent!" "http://collegecentral.com" 226 postMessageTest.html:29:2
+"[cycle] terminating; zero elements found by selector" jquery.cycle.all.min.js:16:146
+"SPR-ERROR: 107 - Account inactive" reach.js:4:98
+"Sent!" "http://colonialairstream.com" 227 postMessageTest.html:29:2
+"Sent!" "http://colonypalmshotel.com" 228 postMessageTest.html:29:2
+"Sent!" "http://coloring4all.com" 229 postMessageTest.html:29:2
+"Sent!" "http://coloring-for-kids.net" 230 postMessageTest.html:29:2
+"Sent!" "http://coloring-images.com" 231 postMessageTest.html:29:2
+"Sent!" "http://coloring-images.com" 232 postMessageTest.html:29:2
+"Sent!" "http://coloringpages101.com" 233 postMessageTest.html:29:2
+"IntroPlayer: setRetailerContainer()" index.html:101:5
+"Ad: addPanel(intro, page-intro)" index.html:101:5
+"Ad: addPanel(resolve, page-resolve)" index.html:101:5
+"Ad: addExit(Dynamic Failsafe Main Exit, bm_dyn-intro-page-exit)" index.html:101:5
+"Ad: addExit(Dynamic Failsafe Main Exit, bm-dyn-resolve-page-exit)" index.html:101:5
+"Ad: addExit(Dynamic Failsafe Retailer Exit, intro-cta-btn)" index.html:101:5
+"Ad: addExit(Dynamic Failsafe Retailer Exit, resolve-cta-btn)" index.html:101:5
+"Ad: addReportingLabel(dimensions: 300x250, label: reporting_label)" index.html:101:5
+"Ad: addVideoData(type: intro, id: Intro, mp4_label: video_mp4, webm_label: video_webm)" index.html:101:5
+"Ad: addToggleItem(id: bm-dyn-promo-container, label: promo_on)" index.html:101:5
+"Ad: addPromoImg(id: dyn-promo-img, label: promo_img)" index.html:101:5
+"Ad: id: dyn-title-img, label: title_img)" index.html:101:5
+"Ad: addLegalImg(id: dyn-legal-img, label: legal_img)" index.html:101:5
+"Ad: addEndframeData(id: gwd-resolve-page-background, label: endframe_img)" index.html:101:5
+"Ad: addRetailerExitData(label: retailer_url)" index.html:101:5
+"Ad: addRetailerName(label: retailer)" index.html:101:5
+"Ad: addCTAData(page: page-intro, ctaContainerDiv: intro-cta-btn, ctaImgOnElement: intro-cta-image-on, ctaImgOffElement: intro-cta-image-off, labelOn: retailer_cta_on_img, labelOff: retailer_cta_off_img)" index.html:101:5
+"Ad: addCTAData(page: page-resolve, ctaContainerDiv: resolve-cta-btn, ctaImgOnElement: resolve-cta-image-on, ctaImgOffElement: resolve-cta-image-off, labelOn: retailer_cta_on_img, labelOff: retailer_cta_off_img)" index.html:101:5
+"Ad: addMainExitData(location: intro, id: bm_dyn-intro-page-exit, label: main_url)" index.html:101:5
+"Ad: addMainExitData(location: resolve, id: bm-dyn-resolve-page-exit, label: main_url)" index.html:101:5
+"Porthole: Using built-in browser support" index_MA4.html:92:12
+"2015-12-04T02:04:20.387Z [head] [LOG ] Initializing JASS v1.0.3..." jass.head.js:1:2277
+"2015-12-04T02:04:20.396Z [head] [LOG ] [head] execution completed..." jass.head.js:1:2277
+"2015-12-04T02:04:20.891Z [tail] [LOG ] External libraries already loaded." jass.tail.js:1:204
+"2015-12-04T02:04:20.893Z [tail] [LOG ] [tail] execution completed..." jass.tail.js:1:204
+"Sent!" "http://colorkinetics.com" 234 postMessageTest.html:29:2
+"Sent!" "http://colormango.com" 235 postMessageTest.html:29:2
+"targusResponseHandler ***********************" www.xfinity.com:501:72
+Object { segment: "000", VOICE: "0", DATA: "0", VIDEO: "0", CA: "0", NSDBS: "0", XH NonSub: "0", XH Sub: "0", TP: "0", VC: "0", 5 more… } www.xfinity.com:501:72
+"set list2" www.xfinity.com:501:72
+"set eVar27" www.xfinity.com:501:72
+"targusResponseHandler ***********************" www.xfinity.com:501:72
+Object { segment: "000", VOICE: "0", DATA: "0", VIDEO: "0", CA: "0", NSDBS: "0", XH NonSub: "0", XH Sub: "0", TP: "0", VC: "0", 5 more… } www.xfinity.com:501:72
+"set list2" www.xfinity.com:501:72
+"set eVar27" www.xfinity.com:501:72
+"Sent!" "http://comfortup.com" 236 postMessageTest.html:29:2
+"Sent!" "http://comicvip.com" 237 postMessageTest.html:29:2
+"Sent!" "http://commercesciences.com" 238 postMessageTest.html:29:2
+"[cycle2] --c2 init--" jquery.cycle2.min.js:6:55
+"Sent!" "http://commercialtrucktrader.com" 239 postMessageTest.html:29:2
+"setButtons" main.js:52:1
+"frameOne" main.js:102:1
+"Sent!" "http://commonwealthfund.org" 240 postMessageTest.html:29:2
+"Sent!" "http://communityaccess.org" 241 postMessageTest.html:29:2
+"Sent!" "http://companylisting.ca" 242 postMessageTest.html:29:2
+"##########################
+#  The endpoint used to load this resource has been deprecated.
+#  Please update to the current Facebook JavaScript SDK.
+#  https://developers.facebook.com/docs/reference/javascript/
+##########################" FB.Share:55:242
+
+"connectEkomiIntegration_BAD765008009C5D - Cannot find elementId("eKomiSeal_default")  - skipping" BAD765008009C5D.js:76:32
+"Sent!" "http://computerhope.com" 243 postMessageTest.html:29:2
+"Sent!" "http://computerprediction.com" 244 postMessageTest.html:29:2
+"Sent!" "http://com-sub.biz" 245 postMessageTest.html:29:2
+"Sent!" "http://concertful.com" 246 postMessageTest.html:29:2
+"Sent!" "http://condodirect.com" 247 postMessageTest.html:29:2
+"Sent!" "http://condodirect.com" 248 postMessageTest.html:29:2
+"Sent!" "http://condomdepot.com" 249 postMessageTest.html:29:2
+"Sent!" "http://condos.ca" 250 postMessageTest.html:29:2
+"Sent!" "http://confabb.com" 251 postMessageTest.html:29:2
+"Sent!" "http://conforums.com" 252 postMessageTest.html:29:2
+"Sent!" "http://congresodivulgacion.org" 253 postMessageTest.html:29:2
+"Sent!" "http://connecticare.com" 254 postMessageTest.html:29:2
+"Sent!" "http://conservation.org" 255 postMessageTest.html:29:2
+"Sent!" "http://conservativereport.org" 256 postMessageTest.html:29:2
+"Sent!" "http://consignmycloset.com" 257 postMessageTest.html:29:2
+"[cycle] 1  - img slide not loaded, requeuing slideshow:  http://thumbs.gocdn.us/25_1220.t.470.347.jpg 0 0" jquery.cycle.min.js:10:180
+"[cycle] 2  - img slide not loaded, requeuing slideshow:  http://thumbs.gocdn.us/25_1214.t.470.347.jpg 0 0" jquery.cycle.min.js:10:180
+"Sent!" "http://consignsimplychic.com" 258 postMessageTest.html:29:2
+"Sent!" "http://consobaby.com" 259 postMessageTest.html:29:2
+"Sent!" "http://conspiracybomb.com" 260 postMessageTest.html:29:2
+"[BC][ERROR] CORS POST request failed." blueconic.min.js:75:69640
+"[BC][ERROR] --stacktrace--" blueconic.min.js:75:69640
+console.trace(): blueconic.min.js:75
+UTIL.logError() blueconic.min.js:75
+corsPostRequest/xhr.onerror() blueconic.min.js:75
+nrWrapper() index.jsp:40
+
+"[BC][ERROR] --end stacktrace--" blueconic.min.js:75:69640
+"Sent!" "http://consumersilver.com" 261 postMessageTest.html:29:2
+"Sent!" "http://consumersunion.org" 262 postMessageTest.html:29:2
+"Sent!" "http://contactme.com" 263 postMessageTest.html:29:2
+ThemePunch GreenSocks Logs jquery.themepunch.tools.min.js:25
+"Build GreenSock SandBox for ThemePunch Plugins" jquery.themepunch.tools.min.js:33:0
+"GreenSock TweenLite Engine Initalised by ThemePunch Plugin" jquery.themepunch.tools.min.js:34:0
+Slider Revolution 4.5.7 Initialisation on rev_slider_5_1 jquery.themepunch.revolution.min.js:7
+Used Options: jquery.themepunch.revolution.min.js:7
+Object { delay: 9000, startheight: 600, startwidth: 1400, fullScreenAlignForce: "off", autoHeight: "off", hideTimerBar: "on", hideThumbs: 200, hideNavDelayOnMobile: 1500, thumbWidth: 100, thumbHeight: 50, 53 more… } jquery.themepunch.revolution.min.js:7:9352
+Tween Engine: jquery.themepunch.revolution.min.js:7
+"GreenSock Engine Version in Slider Revolution:1.12.1" jquery.themepunch.revolution.min.js:7:9564
+"Sent!" "http://container-tracking.org" 264 postMessageTest.html:29:2
+"Sent!" "http://controller.com" 265 postMessageTest.html:29:2
+"Sent!" "http://convergetrack.com" 266 postMessageTest.html:29:2
+"Sent!" "http://cookeatshare.com" 267 postMessageTest.html:29:2
+"Sent!" "http://cookiecutter.com" 268 postMessageTest.html:29:2
+"wrapper: " 0 scripting.js:181:12
+"over: " 0 scripting.js:182:12
+"totale: " 0 scripting.js:183:12
+"---" scripting.js:184:12
+"wrapper: " 0 scripting.js:181:12
+"over: " 0 scripting.js:182:12
+"totale: " 0 scripting.js:183:12
+"---" scripting.js:184:12
+"Sent!" "http://cookies.coffee" 269 postMessageTest.html:29:2
+"BHPN: 21:08:42.827: script started (0ms from script start - 1449194922827)" blogherads.js:15:47
+"BHPN: 21:08:42.829: Creating slot with type Middle3 in container oas_Middle3 (2ms from script start - 1449194922829)" blogherads.js:15:47
+"BHPN: 21:08:43.021: Targeting retrieval completed for audsci_pg (194ms from script start - 1449194923021)" blogherads.js:15:47
+"BHPN: 21:08:43.092: Targeting retrieval completed for amzn (265ms from script start - 1449194923092)" blogherads.js:15:47
+"BHPN: 21:08:43.451: Targeting retrieval completed for peer39 (624ms from script start - 1449194923451)" blogherads.js:15:47
+"BHPN: 21:08:43.464: Targeting retrieval completed for ybot (637ms from script start - 1449194923464)" blogherads.js:15:47
+"BHPN: 21:08:43.466: Making initial DFP call (639ms from script start - 1449194923466)" blogherads.js:15:47
+"BHPN: 21:08:43.476: Calling display for Middle3/oas_Middle3 (649ms from script start - 1449194923476)" blogherads.js:15:47
+"BHPN: 21:08:43.537: Creating slot with type Middle1 in container oas_Middle1 (710ms from script start - 1449194923537)" blogherads.js:15:47
+"BHPN: 21:08:43.538: Calling display for Middle1/oas_Middle1 (711ms from script start - 1449194923538)" blogherads.js:15:47
+ plugins.js:7:16
+"Sent!" "http://coolclips.com" 270 postMessageTest.html:29:2
+"Sent!" "http://coolfunnygifs.com" 271 postMessageTest.html:29:2
+"Sent!" "http://coolmath.com" 272 postMessageTest.html:29:2
+"Sent!" "http://coolmath-games.com" 273 postMessageTest.html:29:2
+"    CCCCCCCCCC    " script.js:1:17049
+" CCCCCCCCCCCCCCCCC " script.js:1:17049
+"CCCCCCC     CCCCCCC     Hi there developer!" script.js:1:17049
+"CCCCC                   Feel free to contact us at feedback@coolors.co" script.js:1:17049
+"CCCCC                   for any question or suggestion!" script.js:1:17049
+"CCCCCCC     CCCCCCC" script.js:1:17049
+" CCCCCCCCCCCCCCCCC " script.js:1:17049
+"    CCCCCCCCCCC    " script.js:1:17049
+"Sent!" "http://coolors.co" 274 postMessageTest.html:29:2
+"Sent!" "http://coolplaces.co.uk" 275 postMessageTest.html:29:2
+"Sent!" "http://coolstuffinc.com" 276 postMessageTest.html:29:2
+"Sent!" "http://coolweirdo.com" 277 postMessageTest.html:29:2
+"Sent!" "http://copycakes.net" 278 postMessageTest.html:29:2
+"Sent!" "http://core.com" 279 postMessageTest.html:29:2
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"===============================================================================================================================" cookieconsent.latest.min.js:8:3
+
+"This version of Cookie Consent has been removed. See https://silktide.com/really-important-update-to-users-of-cookie-consent-2/" cookieconsent.latest.min.js:8:14
+
+"===============================================================================================================================" cookieconsent.latest.min.js:8:25
+
+"Sent!" "http://cornerbakerycafe.com" 280 postMessageTest.html:29:2
+"Sent!" "http://costco.co.uk" 281 postMessageTest.html:29:2
+"Sent!" "http://cottagesincanada.com" 282 postMessageTest.html:29:2
+"Sent!" "http://couchtuner.eu.com" 283 postMessageTest.html:29:2
+"This browser is AJAX compatible" vbulletin-core.js:11:10736
+"Firing System Init" vbulletin-core.js:11:26207
+"Fire vB_XHTML_Ready" vbulletin-core.js:11:29534
+"Fetch Cookie :: vbulletin_collapse (null)" vbulletin-core.js:11:17102
+"Sent!" "http://cougarstadium.com" 284 postMessageTest.html:29:2
+"[cycle] terminating; too few slides: 0" jquery.cycle.all.min.js:10:194
+"[cycle] terminating; zero elements found by selector" jquery.cycle.all.min.js:10:194
+"Sent!" "http://countrybaskets.co.uk" 285 postMessageTest.html:29:2
+"Cannot execute GA because utag is undefined: Adding to event stash" utils-min.js:17:544
+"comscoreSetId is deprecated" utils-min.js:29:318
+"Parsing event stash (8 events)" utils-min.js:17:7
+"Sent!" "http://countryliving.com" 286 postMessageTest.html:29:2
+"Sent!" "http://countrytimeonline.com" 287 postMessageTest.html:29:2
+"Sent!" "http://coupflip.com" 288 postMessageTest.html:29:2
+"Sent!" "http://coupon4share.com" 289 postMessageTest.html:29:2
+"Sent!" "http://couponalbum.in" 290 postMessageTest.html:29:2
+"Sent!" "http://couponalert.com" 291 postMessageTest.html:29:2
+"`new ZeroClipboard(elements, options)` is deprecated. See docs for more info:
+    https://github.com/zeroclipboard/zeroclipboard/blob/master/docs/instructions.md#deprecations" ZeroClipboard.min.js:9:4951
+"nothingtodisplay" crengage.js line 16 > eval:1:0
+"Sent!" "http://couponbus.in" 292 postMessageTest.html:29:2
+"Sent!" "http://couponbus.in" 293 postMessageTest.html:29:2
+"Sent!" "http://couponcode.com" 294 postMessageTest.html:29:2
+"Sent!" "http://couponcodehoster.org" 295 postMessageTest.html:29:2
+"Sent!" "http://couponcodes.co.uk" 296 postMessageTest.html:29:2
+"Sent!" "http://couponcodesdaily.com" 297 postMessageTest.html:29:2
+"Sent!" "http://couponcodeshero.com" 298 postMessageTest.html:29:2
+"Sent!" "http://couponcodestoday.com" 299 postMessageTest.html:29:2
+"Sent!" "http://couponcodestore.net" 300 postMessageTest.html:29:2
+"Sent!" "http://couponcouponscode.com" 301 postMessageTest.html:29:2
+"before zclip common" custom.js:141:4
+"its working..." coupondesh.com:3130:12
+"Sent!" "http://couponfactory.com" 302 postMessageTest.html:29:2
+"Sent!" "http://couponfleamarket.com" 303 postMessageTest.html:29:2
+"TRC.Manager.getReferrer : rendering in cross domain iframe" impl.185-5-RELEASE.js:2:717
+"Server did not respond to loadRBox" impl.185-5-RELEASE.js:2:717
+"TRC.Manager.getReferrer : rendering in cross domain iframe" impl.185-5-RELEASE.js:2:717
+"loadRBox failed and not using CDN, aborting." impl.185-5-RELEASE.js:2:717
+"Sent!" "http://couponinspector.com" 304 postMessageTest.html:29:2
+"Sent!" "http://couponismtheme.blogspot.in" 305 postMessageTest.html:29:2
+"Sent!" "http://couponit.net" 306 postMessageTest.html:29:2
+"Sent!" "http://couponitos.com" 307 postMessageTest.html:29:2
+"Sent!" "http://coupon-lady.com" 308 postMessageTest.html:29:2
+"Sent!" "http://couponlair.com" 309 postMessageTest.html:29:2
+"Sent!" "http://couponmate.com" 310 postMessageTest.html:29:2
+"carouFredSel: No element found for "#foo3"." jquery.carouFredSel-6.2.1-packed.js:1:16490
+"Sent!" "http://couponmom.com" 311 postMessageTest.html:29:2
+"Sent!" "http://couponmountain.com" 312 postMessageTest.html:29:2
+"Sent!" "http://couponneur.com" 313 postMessageTest.html:29:2
+"Sent!" "http://couponology.com" 314 postMessageTest.html:29:2
+"hello" couponpaste.com:128:0
+"Sent!" "http://couponpenny.com" 315 postMessageTest.html:29:2
+"Sent!" "http://couponphp.com" 316 postMessageTest.html:29:2
+"Sent!" "http://couponpreviews.info" 317 postMessageTest.html:29:2
+"Sent!" "http://couponpreviews.info" 318 postMessageTest.html:29:2
+"Sent!" "http://couponpromocodediscount.com" 319 postMessageTest.html:29:2
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Sent!" "http://couponreveal.com" 320 postMessageTest.html:29:2
+"Sent!" "http://couponsal.in" 321 postMessageTest.html:29:2
+"Sent!" "http://couponsavebig.com" 322 postMessageTest.html:29:2
+"Sent!" "http://couponsavi.in" 323 postMessageTest.html:29:2
+"Sent!" "http://couponsavi.in" 324 postMessageTest.html:29:2
+"Sent!" "http://couponscript.org" 325 postMessageTest.html:29:2
+"Sent!" "http://couponshelper.com" 326 postMessageTest.html:29:2
+"Sent!" "http://couponsherpa.com" 327 postMessageTest.html:29:2
+"Sent!" "http://couponshutter.com" 328 postMessageTest.html:29:2
+Object { 0: "24", 1: "19", 2: "0", 3: "23", 4: "Share A Sale", 5: "My Cuban Store", 6: "7142", 7: "My Cuban Store", 8: "store/my-cuban-store-coupons", 9: "You are going for beach party and t…", 64 more… } content.js:256:16
+Object { 0: "25", 1: "19", 2: "0", 3: "23", 4: "Share A Sale", 5: "My Bambino", 6: "5634", 7: "My Bambino", 8: "store/my-bambino-coupons", 9: "Mybambino.com is an online gift sto…", 64 more… } content.js:256:16
+Object { 0: "26", 1: "17", 2: "0", 3: "23", 4: "Share A Sale", 5: "www.buycoolshirts.com", 6: "10905", 7: "Buy Cool Shirts", 8: "store/buy-cool-shirts-coupons", 9: "This online store offers featuring …", 64 more… } content.js:256:16
+Object { 0: "27", 1: "17", 2: "0", 3: "23", 4: "Share A Sale", 5: "eFaucets.com-Brand Name Kitchen and…", 6: "18654", 7: "eFaucets", 8: "store/efaucets-coupons", 9: "Efaucets is an online store which h…", 64 more… } content.js:256:16
+Object { 0: "38", 1: "23", 2: "0", 3: "23", 4: "Share A Sale", 5: "HalloweenCostumes.com", 6: "38286", 7: "HalloweenCostumes.com", 8: "store/halloweencostumescom-coupons", 9: "If your budget is getting low and y…", 64 more… } content.js:256:16
+Object { 0: "39", 1: "23", 2: "0", 3: "23", 4: "Share A Sale", 5: "costumes4less.com", 6: "33112", 7: "Costumes4less.com", 8: "store/costumes4lesscom-coupons", 9: "Welcome to the costume world! For a…", 64 more… } content.js:256:16
+Object { 0: "42", 1: "23", 2: "0", 3: "23", 4: "Share A Sale", 5: "BulkSupplements.com", 6: "53326", 7: "BulkSupplements.com", 8: "store/bulksupplementscom-coupons", 9: "Bulk supplements is one of the larg…", 64 more… } content.js:256:16
+Object { 0: "43", 1: "23", 2: "0", 3: "23", 4: "Share A Sale", 5: "Cichic Fashion Co.,ltd", 6: "46883", 7: "Cichic.com", 8: "store/cichiccom-coupons", 9: "Cichic Fashion Co. ltd is an online…", 64 more… } content.js:256:16
+Object { 0: "45", 1: "23", 2: "0", 3: "23", 4: "Share A Sale", 5: "HobbyTron.com", 6: "54222", 7: "HobbyTron.com", 8: "store/hobbytroncom-coupons", 9: "Welcome to Hobby Tron! An online st…", 64 more… } content.js:256:16
+Object { 0: "47", 1: "23", 2: "0", 3: "23", 4: "Share A Sale", 5: "Lotus Boutique", 6: "58398", 7: "Lotus Boutique", 8: "store/lotus-boutique-coupons", 9: "Are you striving for some charming …", 64 more… } content.js:256:16
+"Sent!" "http://couponsmoon.com" 329 postMessageTest.html:29:2
+"Sent!" "http://couponsnatchers.com" 330 postMessageTest.html:29:2
+"Sent!" "http://couponspot.com" 331 postMessageTest.html:29:2
+"Sent!" "http://couponsurfer.com" 332 postMessageTest.html:29:2
+"Sent!" "http://coupontrends.in" 333 postMessageTest.html:29:2
+"Sent!" "http://couponzdeal.com" 334 postMessageTest.html:29:2
+"Sent!" "http://couponzine.net" 335 postMessageTest.html:29:2
+"[INFO] - [GMData] - [Setup] Run" data.js:2:24751
+"[INFO] - [GMData] - [FrequencyCookieHandler] Init" data.js:2:24751
+"[INFO] - [GMData] - [Audience] Loaded" data.js:2:24751
+"Sent!" "http://couriertracking.co.in" 336 postMessageTest.html:29:2
+"Sent!" "http://covalentsoftwares.com" 337 postMessageTest.html:29:2
+"Sent!" "http://coverfox.com" 338 postMessageTest.html:29:2
+"Error: ReferenceError: CMG_FORUMS is not defined on line 89 for http://www.covers.com/index.aspx" api.js:4:8
+"Sent!" "http://cowboom.com" 339 postMessageTest.html:29:2
+"Sent!" "http://cox.com" 340 postMessageTest.html:29:2
+"Sent!" "http://cox.net" 341 postMessageTest.html:29:2
+"Loaded: http://static.ctvnews.ca/bellmedia/common/js/elections.js with status: success" requireDependency.js:1:676
+"Unable to access window.top" flyertown_module.js:16:35
+"Loaded: http://static.ctvnews.ca/bellmedia/common/js/videoUtil.js with status: success" requireDependency.js:1:676
+"Loaded: http://s3.amazonaws.com/publishflow/javascript/data.js with status: success" requireDependency.js:1:676
+"Loaded: http://www.google-analytics.com/ga.js with status: success" requireDependency.js:1:676
+"Loaded: http://static.ctvnews.ca/bellmedia/common/js/jquery-ui-tabs-1.5.packed.js with status: success" requireDependency.js:1:676
+"Loaded: http://static.ctvnews.ca/bellmedia/common/js/videoPlayer.axis.js with status: success" requireDependency.js:1:676
+"Loaded: http://static.ctvnews.ca/bellmedia/common/js/jcarousellite_1.0.1.min.js with status: success" requireDependency.js:1:676
+"Loaded: http://static.ctvnews.ca/bellmedia/common/js/jquery.bxslider.min.js with status: success" requireDependency.js:1:676
+"Loaded: http://static.ctvnews.ca/bellmedia/common/js/jquery-ui-1.8.18.custom.min.js with status: success" requireDependency.js:1:676
+"Ensighten" Bootstrap.js:321:144
+"Ensighten" Bootstrap.js:321:144
+"Sent!" "http://cqpress.com" 342 postMessageTest.html:29:2
+"Sent!" "http://cracker.com" 343 postMessageTest.html:29:2
+"Sent!" "http://crackheap.net" 344 postMessageTest.html:29:2
+"Sent!" "http://craftsy.com" 345 postMessageTest.html:29:2
+"Sent!" "http://craigslist.co.in" 346 postMessageTest.html:29:2
+"Sent!" "http://craigslist.co.kr" 347 postMessageTest.html:29:2
+"Sent!" "http://craigslist.com.sg" 348 postMessageTest.html:29:2
+"Sent!" "http://craigslist.com.tr" 349 postMessageTest.html:29:2
+"Sent!" "http://craigslist.co.th" 350 postMessageTest.html:29:2
+"Sent!" "http://craigslist.co.uk" 351 postMessageTest.html:29:2
+"Sent!" "http://craigslist.es" 352 postMessageTest.html:29:2
+"Sent!" "http://craigslist.hk" 353 postMessageTest.html:29:2
+"Sent!" "http://craigslist.it" 354 postMessageTest.html:29:2
+"Sent!" "http://craigslist.jp" 355 postMessageTest.html:29:2
+"Sent!" "http://craigslist.org" 356 postMessageTest.html:29:2
+ plugins.js:7:16
+"Sent!" "http://crankworx.com" 357 postMessageTest.html:29:2
+"Sent!" "http://crazy4us.com" 358 postMessageTest.html:29:2
+"Tag Fired." e3fea2fabe9e923e26764410daa16343.js:5:415
+"Sent!" "http://crazy-cards.com" 359 postMessageTest.html:29:2
+"2015-12-04T15:46:27.188Z [head] [LOG ] Initializing JASS v1.0.3..." jass.head.js:1:2277
+"2015-12-04T15:46:27.198Z [head] [LOG ] [head] execution completed..." jass.head.js:1:2277
+"Sent!" "http://createsplashpages.com" 360 postMessageTest.html:29:2
+"Sent!" "http://creationwatches.com" 361 postMessageTest.html:29:2
+"Sent!" "http://creative-copywriter.net" 362 postMessageTest.html:29:2
+"Sent!" "http://creative-copywriter.net" 363 postMessageTest.html:29:2
+"Sent!" "http://creativelabworks.com" 364 postMessageTest.html:29:2
+"Element does not exist in DOM!" ticker.js:24:4
+"Sent!" "http://crfsonly.com" 365 postMessageTest.html:29:2
+"wwwp: starting up. pop type is: popup" pop.min.js:1:11686
+"wwwp: allowed device types: Desktop,Mobile" pop.min.js:1:11736
+"wwwp: user agent type is: Desktop" pop.min.js:1:11842
+"wwwp: hooking for click,touchstart" pop.min.js:1:14176
+"Sent!" "http://cricfree.tv" 366 postMessageTest.html:29:2
+"wwwp: starting up. pop type is: popup" pop.min.js:1:11686
+"wwwp: allowed device types: Desktop,Mobile" pop.min.js:1:11736
+"wwwp: user agent type is: Desktop" pop.min.js:1:11842
+"wwwp: hooking for click,touchstart" pop.min.js:1:14176
+"Sent!" "http://crichd.in" 367 postMessageTest.html:29:2
+"Sent!" "http://cricoctopus.com" 368 postMessageTest.html:29:2
+"Sent!" "http://crocko.com" 369 postMessageTest.html:29:2
+"Sent!" "http://cronkitenewsonline.com" 370 postMessageTest.html:29:2
+"Sent!" "http://cropp.com" 371 postMessageTest.html:29:2
+"Loading Delay Repay Script" xcountry.min.js:53:27
+"This browser is AJAX compatible" vbulletin-core.js:11:10736
+"Firing System Init" vbulletin-core.js:11:26207
+"Fire vB_XHTML_Ready" vbulletin-core.js:11:29534
+"Fetch Cookie :: vbulletin_collapse (null)" vbulletin-core.js:11:17102
+"Sent!" "http://crossmark.com" 372 postMessageTest.html:29:2
+"This browser is AJAX compatible" vbulletin-core.js:11:10735
+"Sent!" "http://crucon.com" 373 postMessageTest.html:29:2
+Object { length: 0, prevObject: Object, context: HTMLDocument → www.cruisedeals.co.uk, selector: "iframe[src*='www.youtube.com']" } Object { length: 0, prevObject: Object, context: HTMLDocument → www.cruisedeals.co.uk, selector: ".content > .container > .col-9" } www.cruisedeals.co.uk:1286:2
+"Sent!" "http://cruiselines.com" 374 postMessageTest.html:29:2
+"Sent!" "http://crunchybetty.com" 375 postMessageTest.html:29:2
+"Sent!" "http://crutchfield.com" 376 postMessageTest.html:29:2
+"Sent!" "http://crwflags.com" 377 postMessageTest.html:29:2
+"VIDEOJS:" "ERROR:" "(CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED)" "No compatible source was found for this video." Object { code: 4, message: "No compatible source was found for …" } video.js:23:202
+
+"Sent!" "http://cryptii.com" 378 postMessageTest.html:29:2
+"[cycle] terminating; zero elements found by selector" jquery.cycle.js:16:182
+"Sent!" "http://csgobuynds.com" 379 postMessageTest.html:29:2
+1000 strack:1:25
+"5231" strack:1:311
+"* Connecting to server .." App2.js:1:270
+"Sent!" "http://csgo-raffle.com" 380 postMessageTest.html:29:2
+"* Connecting to server lost .." App2.js:1:1362
+"* Connecting to server .." App2.js:1:270
+"Connected to Server" App2.js:1:1299
+"Sent!" "http://csl.com.au" 381 postMessageTest.html:29:2
+"Sent!" "http://csnbbs.com" 382 postMessageTest.html:29:2
+"Sent!" "http://csscompressor.com" 383 postMessageTest.html:29:2
+"Sent!" "http://cssp.org" 384 postMessageTest.html:29:2
+"Sent!" "http://ctiasupermobility2015.com" 385 postMessageTest.html:29:2
+"Loaded: http://static.ctvnews.ca/bellmedia/common/js/elections.js with status: success" requireDependency.js:1:676
+"[axisAuthApi] ver.: 1.9.49" axisAuthApi.js:1:790
+"Loaded: http://cauth.9c9media.com/auth9/axisAuthApi.js with status: success" requireDependency.js:1:676
+"Sent!" "http://cucirca.eu" 386 postMessageTest.html:29:2
+"Sent!" "http://cu-fcchat.com" 387 postMessageTest.html:29:2
+"Sent!" "http://cufflinks.com" 388 postMessageTest.html:29:2
+"Sent!" "http://cukii.com" 389 postMessageTest.html:29:2
+"Sent!" "http://cultureofscience.com" 390 postMessageTest.html:29:2
+"Sent!" "http://culturesforhealth.com" 391 postMessageTest.html:29:2
+"Unknown Angularytics provider:Krux" .all.min.js:21:12062
+"TIMING: firstPageLoadTime => 7697" .all.min.js:21:9825
+"Sent!" "http://cureresearch.com" 392 postMessageTest.html:29:2
+"Sent!" "http://curezone.com" 393 postMessageTest.html:29:2
+"Sent!" "http://curezone.org" 394 postMessageTest.html:29:2
+"Sent!" "http://curiua.com" 395 postMessageTest.html:29:2
+"Sent!" "http://curlyorange.com" 396 postMessageTest.html:29:2
+"Sent!" "http://currentcodes.com" 397 postMessageTest.html:29:2
+"Sent!" "http://currys.co.uk" 398 postMessageTest.html:29:2
+"SoundManager 2: No Flash detected. Trying HTML5-only mode." soundmanager2-jsmin.js:32:356
+"SoundManager V2.97a.20131201 (AS3/Flash 9) + HTML5 audio" soundmanager2-jsmin.js:32:356
+"SoundManager 2: soundManager: Fatal error: Flash is needed to play some required formats, but is not available." soundmanager2-jsmin.js:32:356
+"SoundManager 2 HTML5 support: mp3 = false (using flash), mp4 = false (using flash), ogg = true, opus = true, wav = true" soundmanager2-jsmin.js:32:356
+"Sent!" "http://customsigngenerator.com" 399 postMessageTest.html:29:2
+"Sent!" "http://cute41.com" 400 postMessageTest.html:29:2
+"Sent!" "http://cutepdf.com" 401 postMessageTest.html:29:2
+"Sent!" "http://cutepdf-editor.com" 402 postMessageTest.html:29:2
+"Sent!" "http://cuterank.net" 403 postMessageTest.html:29:2
+"Sent!" "http://cutratecrafts.com" 404 postMessageTest.html:29:2
+"Sent!" "http://cwriggsbeelawoffice.com" 405 postMessageTest.html:29:2
+"window=285 content=285 screenAspect=" merged_2015101911460692.js:421:181
+"Sent!" "http://cyanogenmod.org" 406 postMessageTest.html:29:2
+"Sent!" "http://cybercafepro.com" 407 postMessageTest.html:29:2
+"Sent!" "http://cybercon.com" 408 postMessageTest.html:29:2
+"Sent!" "http://cyberguerrilla.org" 409 postMessageTest.html:29:2
+"Sent!" "http://cyberlord.at" 410 postMessageTest.html:29:2
+"[cycle2] --c2 init--" cybex-vendor-b00be3efc4.js:8:30533
+"Sent!" "http://cycleofstupid.com" 411 postMessageTest.html:29:2
+"Sent!" "http://cypropertyinspections.com" 412 postMessageTest.html:29:2
+"Sent!" "http://cztorrent.net" 413 postMessageTest.html:29:2
+"Sent!" "http://daaes.tumblr.com" 414 postMessageTest.html:29:2
+"Sent!" "http://dachshundworldcharities.com" 415 postMessageTest.html:29:2
+"Sent!" "http://dacouponcodes.com" 416 postMessageTest.html:29:2
+"Sent!" "http://dagenhamsundaymarket.com" 417 postMessageTest.html:29:2
+Error: Permission denied to access property "spoutable_dfp_view_url"
+Stack trace:
+@http://dailyhealthpost.com/:17:3
+ak@http://partner.googleadservices.com/gpt/pubads_impl_76.js:169:170
+Pk@http://partner.googleadservices.com/gpt/pubads_impl_76.js:193:115
+Mk@http://partner.googleadservices.com/gpt/pubads_impl_76.js:191:446
+X.prototype.U@http://partner.googleadservices.com/gpt/pubads_impl_76.js:190:161
+G@http://partner.googleadservices.com/gpt/pubads_impl_76.js:14:365
+Bk@http://partner.googleadservices.com/gpt/pubads_impl_76.js:187:233
+@http://partner.googleadservices.com/gpt/pubads_impl_76.js:213:393
+callbackProxy@http://dailyhealthpost.com/:1:38
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=1126012294827934&output=json_html&callback=callbackProxy&impl=fifs&json_a=1&eid=108809080&sc=0&sfv=1-0-2&iu_parts=13675490%2Cdhp_single_out_of_page&enc_prev_ius=%2F0%2F1&prev_iu_szs=1x1&ists=1&cookie_enabled=1&cdm=dailyhealthpost.com&lmt=1449244459&dt=1449244459015&cc=100&ea=0&frm=8&biw=-12245933&bih=-12245933&isw=285&ish=150&oid=3&adks=3987721032&gut=v2&ifi=1&ifk=4033526538&u_tz=-300&u_his=50&u_h=1080&u_w=1920&u_ah=1055&u_aw=1920&u_cd=24&u_sd=1&flash=0&nhd=1&url=http%3A%2F%2Fdailyhealthpost.com%2F&dssz=34&icsg=33554432&std=5&vrg=76&vrp=76&ga_vid=631520325.1449244459&ga_sid=1449244459&ga_hid=2037938684:1:1
+ dailyhealthpost.com:25:2
+"Unable to access window.top" circularhub_module.js:16:35
+"[INFO] - [GMData] - [Setup] Run" data.js:2:24751
+"[INFO] - [GMData] - [FrequencyCookieHandler] Init" data.js:2:24751
+"[INFO] - [GMData] - [Audience] Loaded" data.js:2:24751
+"Sent!" "http://dailyshippingtimes.com" 418 postMessageTest.html:29:2
+"Sent!" "http://daily-traffic.com" 419 postMessageTest.html:29:2
+"Sent!" "http://dairyfarmgroup.com" 420 postMessageTest.html:29:2
+"Sent!" "http://dairyshow.in" 421 postMessageTest.html:29:2
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Sent!" "http://dakaya.com" 422 postMessageTest.html:29:2
+"Sent!" "http://daktronics.com" 423 postMessageTest.html:29:2
+"Sent!" "http://dalaran-wow.com" 424 postMessageTest.html:29:2
+"This browser is AJAX compatible" vbulletin-core.js:11:10735
+"Sent!" "http://dallashomebuyerseller.com" 425 postMessageTest.html:29:2
+"Sent!" "http://damimage.com" 426 postMessageTest.html:29:2
+"duplicate in.js loaded, any parameters will be ignored" in.js:5:65
+"Sent!" "http://dancepluswinner.com" 427 postMessageTest.html:29:2
+"step one" dannijo.com:258:3
+"Sent!" "http://dannijo.com" 428 postMessageTest.html:29:2
+"Sent!" "http://dapcambridge.co.uk" 429 postMessageTest.html:29:2
+"Sent!" "http://dapcambridge.co.uk" 430 postMessageTest.html:29:2
+"Sent!" "http://daraz.pk" 431 postMessageTest.html:29:2
+"Sent!" "http://dart.email" 432 postMessageTest.html:29:2
+"Sent!" "http://darwinawards.com" 433 postMessageTest.html:29:2
+"Sent!" "http://dash.pk" 434 postMessageTest.html:29:2
+"Sent!" "http://datacent.com" 435 postMessageTest.html:29:2
+"Sent!" "http://datafilehost.com" 436 postMessageTest.html:29:2
+"[cycle2] --c2 init--" jquery.cycle2.min.js:6:8724
+"[cycle2] pauseOnHover: true (boolean)" jquery.cycle2.min.js:6:8724
+"[cycle2] slides: > a (string)" jquery.cycle2.min.js:6:8724
+"[cycle2] timeout: 1 (number)" jquery.cycle2.min.js:6:8724
+"[cycle2] speed: 2000 (number)" jquery.cycle2.min.js:6:8724
+"[cycle2] fx: carousel (string)" jquery.cycle2.min.js:6:8724
+"Sent!" "http://datalogix.com" 437 postMessageTest.html:29:2
+"Sent!" "http://datawind.com" 438 postMessageTest.html:29:2
+"Sent!" "http://davidapp.com" 439 postMessageTest.html:29:2
+"Sent!" "http://davidaustinroses.com" 440 postMessageTest.html:29:2
+"Sent!" "http://davidaustinroses.co.uk" 441 postMessageTest.html:29:2
+"Sent!" "http://davidsonsinc.com" 442 postMessageTest.html:29:2
+"Sent!" "http://davidsuzuki.org" 443 postMessageTest.html:29:2
+"Sent!" "http://dawsons.co.uk" 444 postMessageTest.html:29:2
+"Sent!" "http://daype.com" 445 postMessageTest.html:29:2
+"Sent!" "http://daysinn.ca" 446 postMessageTest.html:29:2
+"Sent!" "http://daysinn.com" 447 postMessageTest.html:29:2
+"Sent!" "http://daysoftcontactlenses.com" 448 postMessageTest.html:29:2
+"ajax error:" "" www.daytondailynews.com:52:36
+
+undefined main.js:283:8
+285 mainLoad.js:15:7
+"mobileLoaded" mainLoad.js:15:7
+"Sent!" "http://deadspin.com" 449 postMessageTest.html:29:2
+"Sent!" "http://dealbase.com" 450 postMessageTest.html:29:2
+"Sent!" "http://dealcatcher.com" 451 postMessageTest.html:29:2
+ video.js:465:1
+"Sent!" "http://dealcurry.com" 452 postMessageTest.html:29:2
+"Sent!" "http://dealdump.com" 453 postMessageTest.html:29:2
+"Sent!" "http://dealhunting.com" 454 postMessageTest.html:29:2
+"Sent!" "http://dealio.com" 455 postMessageTest.html:29:2
+"Sent!" "http://dealitem.com" 456 postMessageTest.html:29:2
+"You have included the Google Maps API multiple times on this page. This may cause unexpected errors." js:82:302
+
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Sent!" "http://deals2buy.com" 457 postMessageTest.html:29:2
+"You have included the Google Maps API multiple times on this page. This may cause unexpected errors." js:82:302
+
+"Sent!" "http://dealsandyou.com" 458 postMessageTest.html:29:2
+"mistats.sendBeacon: Sent" finalizestats.js:1515:53
+"Sent!" "http://dealschintu.com" 459 postMessageTest.html:29:2
+"Sent!" "http://dealscove.com" 460 postMessageTest.html:29:2
+"Sent!" "http://dealsdaddy.co.uk" 461 postMessageTest.html:29:2
+"Sent!" "http://dealsdigg.com" 462 postMessageTest.html:29:2
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"<ul id="coup_stat_2560" class="list-unstyled dd-coupliststats"><li class="dd-couplikes"><a name="coup_like_2560" id="coup_like_2560" href="javascript:void(0)" onclick="saveLike(2560)" class="orange dd-clike"><i class="fa fa-thumbs-o-up"></i></a><a name="coup_dislike_2560" id="coup_dislike_2560" href="javascript:void(0)" onclick="savedisLike(2560)" class="orange dd-cdislike"><i class="fa fa-thumbs-o-down"></i></a><span name="coup_success_2560" id="coup_success_2560" class="orange successrate">10% Success</span></li><li class="dd-ccomment"><a class="orange" name="coup_comm_2560" id="coup_comm_2560" data-toggle="collapse" href="#dd-coupcomments2560" aria-expanded="false" aria-controls="dd-coupcomments2560"><i class="fa fa-comment-o"></i><span name="coup_comcount" id="coup_comcount_2560" class="dd-ccmntnumber"> No </span>Comments</a></li></ul>" helper.js:132:8
+"<ul id="coup_stat_2817" class="list-unstyled dd-coupliststats"><li class="dd-couplikes"><a name="coup_like_2817" id="coup_like_2817" href="javascript:void(0)" onclick="saveLike(2817)" class="orange dd-clike"><i class="fa fa-thumbs-o-up"></i></a><a name="coup_dislike_2817" id="coup_dislike_2817" href="javascript:void(0)" onclick="savedisLike(2817)" class="orange dd-cdislike"><i class="fa fa-thumbs-o-down"></i></a><span name="coup_success_2817" id="coup_success_2817" class="orange successrate">100% Success</span></li><li class="dd-ccomment"><a class="orange" name="coup_comm_2817" id="coup_comm_2817" data-toggle="collapse" href="#dd-coupcomments2817" aria-expanded="false" aria-controls="dd-coupcomments2817"><i class="fa fa-comment-o"></i><span name="coup_comcount" id="coup_comcount_2817" class="dd-ccmntnumber"> 0 </span>Comments</a></li></ul>" helper.js:132:8
+"<ul id="coup_stat_3330" class="list-unstyled dd-coupliststats"><li class="dd-couplikes"><a name="coup_like_3330" id="coup_like_3330" href="javascript:void(0)" onclick="saveLike(3330)" class="orange dd-clike"><i class="fa fa-thumbs-o-up"></i></a><a name="coup_dislike_3330" id="coup_dislike_3330" href="javascript:void(0)" onclick="savedisLike(3330)" class="orange dd-cdislike"><i class="fa fa-thumbs-o-down"></i></a><span name="coup_success_3330" id="coup_success_3330" class="orange successrate">10% Success</span></li><li class="dd-ccomment"><a class="orange" name="coup_comm_3330" id="coup_comm_3330" data-toggle="collapse" href="#dd-coupcomments3330" aria-expanded="false" aria-controls="dd-coupcomments3330"><i class="fa fa-comment-o"></i><span name="coup_comcount" id="coup_comcount_3330" class="dd-ccmntnumber"> No </span>Comments</a></li></ul>" helper.js:132:8
+"<ul id="coup_stat_3587" class="list-unstyled dd-coupliststats"><li class="dd-couplikes"><a name="coup_like_3587" id="coup_like_3587" href="javascript:void(0)" onclick="saveLike(3587)" class="orange dd-clike"><i class="fa fa-thumbs-o-up"></i></a><a name="coup_dislike_3587" id="coup_dislike_3587" href="javascript:void(0)" onclick="savedisLike(3587)" class="orange dd-cdislike"><i class="fa fa-thumbs-o-down"></i></a><span name="coup_success_3587" id="coup_success_3587" class="orange successrate">10% Success</span></li><li class="dd-ccomment"><a class="orange" name="coup_comm_3587" id="coup_comm_3587" data-toggle="collapse" href="#dd-coupcomments3587" aria-expanded="false" aria-controls="dd-coupcomments3587"><i class="fa fa-comment-o"></i><span name="coup_comcount" id="coup_comcount_3587" class="dd-ccmntnumber"> No </span>Comments</a></li></ul>" helper.js:132:8
+"<ul id="coup_stat_518" class="list-unstyled dd-coupliststats"><li class="dd-couplikes"><a name="coup_like_518" id="coup_like_518" href="javascript:void(0)" onclick="saveLike(518)" class="orange dd-clike"><i class="fa fa-thumbs-o-up"></i></a><a name="coup_dislike_518" id="coup_dislike_518" href="javascript:void(0)" onclick="savedisLike(518)" class="orange dd-cdislike"><i class="fa fa-thumbs-o-down"></i></a><span name="coup_success_518" id="coup_success_518" class="orange successrate">10% Success</span></li><li class="dd-ccomment"><a class="orange" name="coup_comm_518" id="coup_comm_518" data-toggle="collapse" href="#dd-coupcomments518" aria-expanded="false" aria-controls="dd-coupcomments518"><i class="fa fa-comment-o"></i><span name="coup_comcount" id="coup_comcount_518" class="dd-ccmntnumber"> No </span>Comments</a></li></ul>" helper.js:132:8
+"<ul id="coup_stat_3334" class="list-unstyled dd-coupliststats"><li class="dd-couplikes"><a name="coup_like_3334" id="coup_like_3334" href="javascript:void(0)" onclick="saveLike(3334)" class="orange dd-clike"><i class="fa fa-thumbs-o-up"></i></a><a name="coup_dislike_3334" id="coup_dislike_3334" href="javascript:void(0)" onclick="savedisLike(3334)" class="orange dd-cdislike"><i class="fa fa-thumbs-o-down"></i></a><span name="coup_success_3334" id="coup_success_3334" class="orange successrate">10% Success</span></li><li class="dd-ccomment"><a class="orange" name="coup_comm_3334" id="coup_comm_3334" data-toggle="collapse" href="#dd-coupcomments3334" aria-expanded="false" aria-controls="dd-coupcomments3334"><i class="fa fa-comment-o"></i><span name="coup_comcount" id="coup_comcount_3334" class="dd-ccmntnumber"> No </span>Comments</a></li></ul>" helper.js:132:8
+"<ul id="coup_stat_2824" class="list-unstyled dd-coupliststats"><li class="dd-couplikes"><a name="coup_like_2824" id="coup_like_2824" href="javascript:void(0)" onclick="saveLike(2824)" class="orange dd-clike"><i class="fa fa-thumbs-o-up"></i></a><a name="coup_dislike_2824" id="coup_dislike_2824" href="javascript:void(0)" onclick="savedisLike(2824)" class="orange dd-cdislike"><i class="fa fa-thumbs-o-down"></i></a><span name="coup_success_2824" id="coup_success_2824" class="orange successrate">10% Success</span></li><li class="dd-ccomment"><a class="orange" name="coup_comm_2824" id="coup_comm_2824" data-toggle="collapse" href="#dd-coupcomments2824" aria-expanded="false" aria-controls="dd-coupcomments2824"><i class="fa fa-comment-o"></i><span name="coup_comcount" id="coup_comcount_2824" class="dd-ccmntnumber"> No </span>Comments</a></li></ul>" helper.js:132:8
+"<ul id="coup_stat_1547" class="list-unstyled dd-coupliststats"><li class="dd-couplikes"><a name="coup_like_1547" id="coup_like_1547" href="javascript:void(0)" onclick="saveLike(1547)" class="orange dd-clike"><i class="fa fa-thumbs-o-up"></i></a><a name="coup_dislike_1547" id="coup_dislike_1547" href="javascript:void(0)" onclick="savedisLike(1547)" class="orange dd-cdislike"><i class="fa fa-thumbs-o-down"></i></a><span name="coup_success_1547" id="coup_success_1547" class="orange successrate">100% Success</span></li><li class="dd-ccomment"><a class="orange" name="coup_comm_1547" id="coup_comm_1547" data-toggle="collapse" href="#dd-coupcomments1547" aria-expanded="false" aria-controls="dd-coupcomments1547"><i class="fa fa-comment-o"></i><span name="coup_comcount" id="coup_comcount_1547" class="dd-ccmntnumber"> 0 </span>Comments</a></li></ul>" helper.js:132:8
+"Sent!" "http://dealsea.com" 463 postMessageTest.html:29:2
+"Sent!" "http://dealsupto.com" 464 postMessageTest.html:29:2
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Sent!" "http://dealtime.com" 465 postMessageTest.html:29:2
+"Sent!" "http://deandeluca.com" 466 postMessageTest.html:29:2
+"##########################
+#  The endpoint used to load this resource has been deprecated.
+#  Please update to the current Facebook JavaScript SDK.
+#  https://developers.facebook.com/docs/reference/javascript/
+##########################" FB.Share:55:242
+
+"[cycle] terminating; too few slides: 1" homepage_release_20151201-183022.js:1:26370
+"staging IS >>>>false" up-load.js:1:25298
+"[cycle2] --c2 init--" jquery.cycle.all.js:6:8724
+"[cycle2] slides: > .bg-banner (string)" jquery.cycle.all.js:6:8724
+"[cycle2] swipeFx: scrollHorz (string)" jquery.cycle.all.js:6:8724
+"[cycle2] swipe: true (boolean)" jquery.cycle.all.js:6:8724
+"[cycle2] timeout: 5000 (number)" jquery.cycle.all.js:6:8724
+"[cycle2] fx: fade (string)" jquery.cycle.all.js:6:8724
+"[cycle2] --c2 init--" jquery.cycle.all.js:6:8724
+"[cycle2] slides: > p.rotating-tweet (string)" jquery.cycle.all.js:6:8724
+"[cycle2] timeout: 5000 (number)" jquery.cycle.all.js:6:8724
+"[cycle2] fx: fade (string)" jquery.cycle.all.js:6:8724
+"[cycle2] --c2 init--" jquery.cycle.all.js:6:8724
+"[cycle2] slides: > p.rotating-tweet (string)" jquery.cycle.all.js:6:8724
+"[cycle2] timeout: 5000 (number)" jquery.cycle.all.js:6:8724
+"[cycle2] fx: fade (string)" jquery.cycle.all.js:6:8724
+"Sent!" "http://defcon.org" 467 postMessageTest.html:29:2
+"Sent!" "http://defender.com" 468 postMessageTest.html:29:2
+"[cycle] terminating; too few slides: 1" js_K2Ztb_J8GjESyhdzPtqtY835xDd5ZOFrA2Fry4Muyqo.js:523:194
+"Sent!" "http://definitivedeals.com" 469 postMessageTest.html:29:2
+"Sent!" "http://degustabox.com" 470 postMessageTest.html:29:2
+"Sent!" "http://deleted.io" 471 postMessageTest.html:29:2
+"couldn't load file: " "homepage" rams.js:14:20499
+"Global Data Layer START" 56d7c34e042208bfea398881120d4b8c.js:3:139
+"Bootstrapper.dataManager is defined!" 56d7c34e042208bfea398881120d4b8c.js:3:207
+Object { title: "Recipes, Party Food, Cooking Guides…", author: "delish staff", canonical: "http://www.delish.com", publishDate: "", imageUrl: "", section: "", subSection: "", fullUrl: "http://www.delish.com/", articleId: "55594", modDate: "", 24 more… } fbe8416e4b72fee278fc25c76c83d9d2.js:92:330
+"Sent!" "http://delmarfans.com" 472 postMessageTest.html:29:2
+"Sent!" "http://delphipages.com" 473 postMessageTest.html:29:2
+"Sent!" "http://dembuon.vn" 474 postMessageTest.html:29:2
+"Sent!" "http://deodorant.rocks" 475 postMessageTest.html:29:2
+"Sent!" "http://dephp.com" 476 postMessageTest.html:29:2
+"Sent!" "http://depression-chat-rooms.org" 477 postMessageTest.html:29:2
+"This browser is AJAX compatible" vbulletin-core.js:11:10736
+"Firing System Init" vbulletin-core.js:11:26207
+"Fire vB_XHTML_Ready" vbulletin-core.js:11:29534
+"Fetch Cookie :: vbulletin_collapse (null)" vbulletin-core.js:11:17102
+"Sent!" "http://descargartinder.net" 478 postMessageTest.html:29:2
+"Sent!" "http://descon.com" 479 postMessageTest.html:29:2
+"Sent!" "http://descon.com" 480 postMessageTest.html:29:2
+"Sent!" "http://desertsedgerv.com" 481 postMessageTest.html:29:2
+"Sent!" "http://designingforperformance.com" 482 postMessageTest.html:29:2
+"JQMIGRATE: Logging is active" main.js:4:146
+"Sent!" "http://designmantic.com" 483 postMessageTest.html:29:2
+Object { id: 10279071491, title: "Large", options: Array[1], option1: "Large", option2: null, option3: null, price: 1595, weight: 0, compare_at_price: null, inventory_quantity: 22, 8 more… } theme.js:27:4
+Object { id: 11400555395, title: "Small", options: Array[1], option1: "Small", option2: null, option3: null, price: 8800, weight: 1000, compare_at_price: null, inventory_quantity: 2, 8 more… } theme.js:27:4
+Object { id: 11142665859, title: "Frame Size 52", options: Array[1], option1: "Frame Size 52", option2: null, option3: null, price: 120000, weight: 0, compare_at_price: null, inventory_quantity: 0, 8 more… } theme.js:27:4
+Object { id: 10279071491, title: "Large", options: Array[1], option1: "Large", option2: null, option3: null, price: 1595, weight: 0, compare_at_price: null, inventory_quantity: 22, 8 more… } theme.js:27:4
+Object { id: 11400555395, title: "Small", options: Array[1], option1: "Small", option2: null, option3: null, price: 8800, weight: 1000, compare_at_price: null, inventory_quantity: 2, 8 more… } theme.js:27:4
+Object { id: 11142665859, title: "Frame Size 52", options: Array[1], option1: "Frame Size 52", option2: null, option3: null, price: 120000, weight: 0, compare_at_price: null, inventory_quantity: 0, 8 more… } theme.js:27:4
+"Sent!" "http://designnews.com" 484 postMessageTest.html:29:2
+"Sent!" "http://deskaway.com" 485 postMessageTest.html:29:2
+"Sent!" "http://desk.com" 486 postMessageTest.html:29:2
+"Sent!" "http://desktop-wallpapers.net" 487 postMessageTest.html:29:2
+"Sent!" "http://destiny.gg" 488 postMessageTest.html:29:2
+"Sent!" "http://destinylfg.com" 489 postMessageTest.html:29:2
+"Sent!" "http://desura.com" 490 postMessageTest.html:29:2
+"BHPN: 11:03:25.658: script started (0ms from script start - 1449245005658)" blogherads.js:15:47
+"BHPN: 11:03:25.660: Creating slot with type Top2 in container oas_Top2 (2ms from script start - 1449245005660)" blogherads.js:15:47
+"BHPN: 11:03:26.099: Targeting retrieval completed for audsci_pg (441ms from script start - 1449245006099)" blogherads.js:15:47
+"BHPN: 11:03:26.129: Targeting retrieval completed for amzn (471ms from script start - 1449245006129)" blogherads.js:15:47
+"BHPN: 11:03:26.140: Targeting retrieval completed for ybot (482ms from script start - 1449245006140)" blogherads.js:15:47
+"BHPN: 11:03:26.661: Creating slot with type Middle3 in container oas_Middle3 (1003ms from script start - 1449245006661)" blogherads.js:15:47
+"BHPN: 11:03:27.401: Failsafe timer expired, calling DFP (1743ms from script start - 1449245007401)" blogherads.js:15:47
+"BHPN: 11:03:27.421: Making initial DFP call (1763ms from script start - 1449245007421)" blogherads.js:15:47
+"BHPN: 11:03:27.423: Calling display for Top2/oas_Top2 (1765ms from script start - 1449245007423)" blogherads.js:15:47
+"BHPN: 11:03:27.473: Calling display for Middle3/oas_Middle3 (1815ms from script start - 1449245007473)" blogherads.js:15:47
+"BHPN: 11:03:28.254: Slot Top2/oas_Top2 has been rendered (2596ms from script start - 1449245008254)" blogherads.js:15:47
+"BHPN: 11:03:28.266: Slot Middle3/oas_Middle3 has been rendered (2608ms from script start - 1449245008266)" blogherads.js:15:47
+"BHPN: 11:03:28.894: Creating slot with type Middle1 in container oas_Middle1 (3236ms from script start - 1449245008894)" blogherads.js:15:47
+"BHPN: 11:03:28.895: Calling display for Middle1/oas_Middle1 (3237ms from script start - 1449245008895)" blogherads.js:15:47
+"BHPN: 11:03:29.344: Slot Middle1/oas_Middle1 has been rendered (3686ms from script start - 1449245009344)" blogherads.js:15:47
+Object { 0: <div.slides>, length: 1, prevObject: Object, context: <div.dzs-slider.>, selector: ".slides" } dzs-slider-front.js:1:151
+"Sent!" "http://devbistro.com" 491 postMessageTest.html:29:2
+"Sent!" "http://devdocs.io" 492 postMessageTest.html:29:2
+"Google Maps API warning: SensorNotRequired, InvalidKey: https://developers.google.com/maps/documentation/javascript/error-messages" util.js:30:56
+"Sent!" "http://dh139.com" 493 postMessageTest.html:29:2
+"Sent!" "http://dharmacafe.com" 494 postMessageTest.html:29:2
+"Sent!" "http://dheodisha.gov.in" 495 postMessageTest.html:29:2
+"Sent!" "http://dhl-tracknet.nl" 496 postMessageTest.html:29:2
+"Sent!" "http://dialetu.com" 497 postMessageTest.html:29:2
+"Signal: error: {"type":"script","message":"Problem loading https://www.googleadservices.com/pagead/conversion_async.js","tagId":2255861}" tag.js:2:285
+"Sent!" "http://didtheyreadit.com" 498 postMessageTest.html:29:2
+"Facebook Pixel Warning: Multiple pixels with conflicting versions were detected on this page" fbevents.js:9:1575
+"Sent!" "http://diethood.com" 499 postMessageTest.html:29:2
+"Sent!" "http://digitalcamerawarehouse.com.au" 500 postMessageTest.html:29:2
+"Sent!" "http://digital-desert.com" 501 postMessageTest.html:29:2
+"Sent!" "http://digitalfire.com" 502 postMessageTest.html:29:2
+"Sent!" "http://digitalhousecalls.net" 503 postMessageTest.html:29:2
+"Error in loadRBox(): Placement 'Below Article Thumbnails' is not unique in loadRBox()!http://cdn.taboola.com/libtrc/impl.184-RELEASE.js:5" impl.184-RELEASE.js:2:717
+console.trace(): impl.184-RELEASE.js:2
+__trcError() impl.184-RELEASE.js:2
+TRC.Manager/this.loadRBox() impl.184-RELEASE.js:5
+k() loader.js:2
+TRC.Timeout.set/d<() impl.184-RELEASE.js:9
+
+"Error: Placement 'Below Article Thumbnails' is not unique in loadRBox()!: 5@http://cdn.taboola.com/libtrc/impl.184-RELEASE.js" impl.184-RELEASE.js:2:717
+"Sent!" "http://digitalstores.co.uk" 504 postMessageTest.html:29:2
+"Sent!" "http://dillibazar.com" 505 postMessageTest.html:29:2
+"Sent!" "http://dimecitycycles.com" 506 postMessageTest.html:29:2
+"Unknown RPC service: widget-csi-tick-I5_1449245242384" rpc.js:488:29
+"Unknown RPC service: widget-csi-tick-I3_1449245242377" rpc.js:488:29
+"Unknown RPC service: widget-csi-tick-I4_1449245242381" rpc.js:488:29
+"Unknown RPC service: widget-csi-tick-I1_1449245242370" rpc.js:488:29
+"Unknown RPC service: widget-csi-tick-I2_1449245242374" rpc.js:488:29
+"Unknown RPC service: widget-csi-tick-I6_1449245242387" rpc.js:488:29
+"Unknown RPC service: widget-csi-tick-I0_1449245242365" rpc.js:488:29
+"colCount = 0" script.js:13:6
+"Sent!" "http://directlinktrackedplus.com" 507 postMessageTest.html:29:2
+"Sent!" "http://directoryroll.com" 508 postMessageTest.html:29:2
+"Sent!" "http://directorysphere.com" 509 postMessageTest.html:29:2
+"There was an error while handling a listener: TypeError: Argument 1 of Node.appendChild does not implement interface Node." function () jwplayer.js:1:6011
+"Sent!" "http://disco-styles.net" 510 postMessageTest.html:29:2
+"Sent!" "http://discountcouponscodes.in" 511 postMessageTest.html:29:2
+"JQMIGRATE: Logging is active" js_K5YkROU2MxWQBWWnW3kPMzQP6zp9qNtq04ZSpTblRO0.js:1163:1
+"Sent!" "http://discountpartysupplies.com" 512 postMessageTest.html:29:2
+"Sent!" "http://discountpropertynow.com" 513 postMessageTest.html:29:2
+"Sent!" "http://discountra.com" 514 postMessageTest.html:29:2
+"Loading LPS_LSH version 1.9.4 (Toolbox v2.8) with debug mode - Revision: 1.1" script.js:53:1038
+"no subscriber data found in storage" script.js:53:1000
+"Sent!" "http://discounttire.com" 515 postMessageTest.html:29:2
+"Sent!" "http://discounttiredirect.com" 516 postMessageTest.html:29:2
+"This browser is AJAX compatible" vbulletin-core.js:11:10736
+"Sent!" "http://diseasespictures.com" 517 postMessageTest.html:29:2
+"Sent!" "http://dishnetworkmail.com" 518 postMessageTest.html:29:2
+"Sent!" "http://dishnetworkmail.com" 519 postMessageTest.html:29:2
+"===============================================================================================================================" cookieconsent.latest.min.js:8:3
+
+"This version of Cookie Consent has been removed. See https://silktide.com/really-important-update-to-users-of-cookie-consent-2/" cookieconsent.latest.min.js:8:14
+
+"===============================================================================================================================" cookieconsent.latest.min.js:8:25
+
+"Unable to access window.top" circularhub_module.js:16:35
+"Sent!" "http://displays2go.ca" 520 postMessageTest.html:29:2
+"Sent!" "http://displaysense.co.uk" 521 postMessageTest.html:29:2
+"Sent!" "http://distimo.com" 522 postMessageTest.html:29:2
+"Sent!" "http://dividendyieldhunter.com" 523 postMessageTest.html:29:2
+"Sent!" "http://divxstage.org" 524 postMessageTest.html:29:2
+"Sent!" "http://diwalidussehra.in" 525 postMessageTest.html:29:2
+"Sent!" "http://dixonsfurniture.com" 526 postMessageTest.html:29:2
+"Sent!" "http://dixonsfurniture.com" 527 postMessageTest.html:29:2
+"Sent!" "http://dixonsfurniture.com" 528 postMessageTest.html:29:2
+"Sent!" "http://diy.com" 529 postMessageTest.html:29:2
+"No suitable players found and fallback enabled" deGPWLIeEeSaEQp+lcGdIw.js:13:152
+"Sent!" "http://diyonline.com" 530 postMessageTest.html:29:2
+"Sent!" "http://diytrade.com" 531 postMessageTest.html:29:2
+"Sent!" "http://djdunia21.wapka.mobi" 532 postMessageTest.html:29:2
+"Sent!" "http://djjohalhd.me" 533 postMessageTest.html:29:2
+"Sent!" "http://djpunjab.click" 534 postMessageTest.html:29:2
+" Limk Related Content Widget initializing!" loader.min.js:1:14823
+"Sent!" "http://dlguard.com" 535 postMessageTest.html:29:2
+"Sent!" "http://dlldump.com" 536 postMessageTest.html:29:2
+"Sent!" "http://dl-zip.com" 537 postMessageTest.html:29:2
+"Gallery ID: 5" jquery.cw.mediagallery.js:102:3
+"Sent!" "http://dmvcheatsheets.com" 538 postMessageTest.html:29:2
+"Sent!" "http://dmv.com" 539 postMessageTest.html:29:2
+"Sent!" "http://docdroid.net" 540 postMessageTest.html:29:2
+"Sent!" "http://doddle.it" 541 postMessageTest.html:29:2
+"cas.actions.setPageTrackVariables is deprecated. this was called from
+function (){cas.actions.setPageTrackVariables(String.format("/{0}/{1}/drlp/{2}{3}/currentoffers/index.html",cllc.config.brand,window.location.hostname.indexOf("es.")==0?"es":"en",cllc.context.get("year"),(cllc.context.get("vehicle")?"/"+cllc.context.get("vehicle"):"")),true,true)}" tracking.js:1:841
+"Adobe analytics initialized, use DATALAYER to set/get pageTrack info or linkTrack" dataLayer.js:1:146
+"Sent!" "http://dogingtonpost.com" 542 postMessageTest.html:29:2
+"Sent!" "http://dohits.com.br" 543 postMessageTest.html:29:2
+"Sent!" "http://dollardays.com" 544 postMessageTest.html:29:2
+"Sent!" "http://dollaritemdirect.com" 545 postMessageTest.html:29:2
+"Sent!" "http://dollarphotoclub.com" 546 postMessageTest.html:29:2
+"Sent!" "http://dollarstore.com" 547 postMessageTest.html:29:2
+"Sent!" "http://dollartimes.com" 548 postMessageTest.html:29:2
+"JQMIGRATE: Logging is active" jquery-migrate-1.2.1.js:21:1
+"Sent!" "http://domainsdeal.com" 549 postMessageTest.html:29:2
+"Sent!" "http://dondoylecentralcoast.com" 550 postMessageTest.html:29:2
+"Sent!" "http://donkiz-ca.com" 551 postMessageTest.html:29:2
+"Sent!" "http://donkiz.co.za" 552 postMessageTest.html:29:2
+"Sent!" "http://donkiz-ie.com" 553 postMessageTest.html:29:2
+"Error: [$compile:tpload] Failed to load template: /views/partials/register.html
+http://errors.angularjs.org/1.2.16/$compile/tpload?p0=%2Fviews%2Fpartials%2Fregister.html
+c/<@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:12:4812
+Q/<@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:1802
+m/n.error/<@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:7905
+Ac/g/f.promise.then/l@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:22338
+Ac/g/f.promise.then/l@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:22338
+Ac/g/f.promise.then/l@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:22338
+Ac/j/<.then/<@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:23113
+Cc/this.$get</k.prototype.$eval@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:28016
+Cc/this.$get</k.prototype.$digest@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:26542
+Cc/this.$get</k.prototype.$apply@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:28337
+g@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:8248
+s@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:10321
+_b/</w.onreadystatechange@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:10865
+" vendor.6f8273ae.js:13:17642
+
+"Error: [$compile:tpload] Failed to load template: /views/partials/footer.html
+http://errors.angularjs.org/1.2.16/$compile/tpload?p0=%2Fviews%2Fpartials%2Ffooter.html
+c/<@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:12:4812
+Q/<@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:1802
+m/n.error/<@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:7905
+Ac/g/f.promise.then/l@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:22338
+Ac/g/f.promise.then/l@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:22338
+Ac/g/f.promise.then/l@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:22338
+Ac/j/<.then/<@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:23113
+Cc/this.$get</k.prototype.$eval@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:28016
+Cc/this.$get</k.prototype.$digest@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:26542
+Cc/this.$get</k.prototype.$apply@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:28337
+g@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:8248
+s@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:10321
+_b/</w.onreadystatechange@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:10865
+" vendor.6f8273ae.js:13:17642
+
+"Error: [$compile:tpload] Failed to load template: /views/partials/cookie.html
+http://errors.angularjs.org/1.2.16/$compile/tpload?p0=%2Fviews%2Fpartials%2Fcookie.html
+c/<@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:12:4812
+Q/<@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:1802
+m/n.error/<@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:7905
+Ac/g/f.promise.then/l@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:22338
+Ac/g/f.promise.then/l@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:22338
+Ac/g/f.promise.then/l@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:22338
+Ac/j/<.then/<@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:23113
+Cc/this.$get</k.prototype.$eval@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:28016
+Cc/this.$get</k.prototype.$digest@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:26542
+Cc/this.$get</k.prototype.$apply@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:28337
+g@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:8248
+s@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:10321
+_b/</w.onreadystatechange@https://donottrack-doc.com/scripts/vendor.6f8273ae.js:13:10865
+" vendor.6f8273ae.js:13:17642
+
+"Sent!" "http://donottrack.us" 554 postMessageTest.html:29:2
+"No need to resize the container." www.dontdrivestupid.com:598:12
+"Sent!" "http://doodle.com" 555 postMessageTest.html:29:2
+"Sent!" "http://dossier.net" 556 postMessageTest.html:29:2
+"Sent!" "http://dot5hosting.com" 557 postMessageTest.html:29:2
+"Sent!" "http://dotstaff.com" 558 postMessageTest.html:29:2
+"Sent!" "http://doujinsoko.com" 559 postMessageTest.html:29:2
+"Sent!" "http://downloadplayer1.com" 560 postMessageTest.html:29:2
+"Sent!" "http://downtoearth.org" 561 postMessageTest.html:29:2
+"Sent!" "http://downvids.net" 562 postMessageTest.html:29:2
+"Sent!" "http://downxiazai.com.cn" 563 postMessageTest.html:29:2
+"Sent!" "http://downxiazai.com.cn" 564 postMessageTest.html:29:2
+"Sent!" "http://dpdhl.com" 565 postMessageTest.html:29:2
+"Sent!" "http://dragoart.com" 566 postMessageTest.html:29:2
+"Sent!" "http://dragoncraze.com" 567 postMessageTest.html:29:2
+"Sent!" "http://dramatize.com" 568 postMessageTest.html:29:2
+"Sent!" "http://drapersjobs.com" 569 postMessageTest.html:29:2
+"VeApps: VeApps 4.5.0 Deploy:1 Build:1" capture-apps-4.5.0.js:5:16060
+"VeApps: Loading custom events." capture-apps-4.5.0.js:5:15975
+"VeApps: initialising capture-apps" capture-apps-4.5.0.js:5:15975
+"VeApps: Browser detected: Firefox NOT supported" capture-apps-4.5.0.js:8:7347
+"VeApps: Not loading VeApps : Browser is not supported." capture-apps-4.5.0.js:5:16060
+"VeApps: Not loading VeApps: within an Iframe" capture-apps-4.5.0.js:5:16060
+"VeApps: starting form identification process" capture-apps-4.5.0.js:5:15975
+"VeApps: beginning identification for formGroup: classicForms" capture-apps-4.5.0.js:5:15975
+"VeApps: identified formId as: 0 for form group: classicForms" capture-apps-4.5.0.js:5:15975
+"VeApps: Loading VeCompliance" capture-apps-4.5.0.js:5:15975
+"VeApps: beginning identification for formGroup: productForms" capture-apps-4.5.0.js:5:15975
+"VeApps: identified formId as: 0 for form group: productForms" capture-apps-4.5.0.js:5:15975
+"VeApps: beginning identification for formGroup: appsForms" capture-apps-4.5.0.js:5:15975
+"VeApps: identified formId as: 20238 for form group: appsForms" capture-apps-4.5.0.js:5:15975
+"VeApps: Apps configured for this page" capture-apps-4.5.0.js:5:15975
+"VeApps: 1 retry of the AJAX request for sessionInit request" capture-apps-4.5.0.js:5:15975
+"Sent!" "http://drharveys.com" 570 postMessageTest.html:29:2
+"Sent!" "http://driftworks.com" 571 postMessageTest.html:29:2
+"##########################
+#  The endpoint used to load this resource has been deprecated.
+#  Please update to the current Facebook JavaScript SDK.
+#  https://developers.facebook.com/docs/reference/javascript/
+##########################" en_US:55:242
+
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Sent!" "http://drinkneuro.com" 572 postMessageTest.html:29:2
+"Sent!" "http://drishtiias.com" 573 postMessageTest.html:29:2
+"Sent!" "http://driving-tests.org" 574 postMessageTest.html:29:2
+"Sent!" "http://drpusoftware.com" 575 postMessageTest.html:29:2
+"Sent!" "http://drsfostersmith.com" 576 postMessageTest.html:29:2
+"Sent!" "http://druglibrary.org" 577 postMessageTest.html:29:2
+"Sent!" "http://dslr-forum.de" 578 postMessageTest.html:29:2
+"Sent!" "http://dsw.com" 579 postMessageTest.html:29:2
+"Sent!" "http://dtm.uz" 580 postMessageTest.html:29:2
+"Sent!" "http://dubizzle.com" 581 postMessageTest.html:29:2
+"Sent!" "http://dudesoftinder.tumblr.com" 582 postMessageTest.html:29:2
+"Sent!" "http://dumbauctions.com" 583 postMessageTest.html:29:2
+"Sent!" "http://dumbbumpers.com" 584 postMessageTest.html:29:2
+"Sent!" "http://dumblaws.com" 585 postMessageTest.html:29:2
+"Sent!" "http://dumblaws.com" 586 postMessageTest.html:29:2
+"Sent!" "http://dumbsluttyangel.tumblr.com" 587 postMessageTest.html:29:2
+"Sent!" "http://dumbwarnings.com" 588 postMessageTest.html:29:2
+"Sent!" "http://dumcoach.com" 589 postMessageTest.html:29:2
+"Sent!" "http://dungeons-treasures.com" 590 postMessageTest.html:29:2
+"[cycle2] --c2 init--" jquery.cycle2.min.js:6:8647
+"[cycle2] loader: wait (string)" jquery.cycle2.min.js:6:8647
+"[cycle2] timeout: 4000 (number)" jquery.cycle2.min.js:6:8647
+"[cycle2] pauseOnHover: true (boolean)" jquery.cycle2.min.js:6:8647
+"[cycle2] next: #next (string)" jquery.cycle2.min.js:6:8647
+"[cycle2] prev: #prev (string)" jquery.cycle2.min.js:6:8647
+"[cycle2] fx: scrollHorz (string)" jquery.cycle2.min.js:6:8647
+"[cycle2] slides: > div.block (string)" jquery.cycle2.min.js:6:8647
+"Sent!" "http://dunwoodysmilelikeawinner.com" 591 postMessageTest.html:29:2
+"Sent!" "http://durangoherald.com" 592 postMessageTest.html:29:2
+"No survey ID provided, bailing on this whole thing." bdm.js:293:3
+"Sent!" "http://durvet.com" 593 postMessageTest.html:29:2
+"Sent!" "http://dustuboy.com" 594 postMessageTest.html:29:2
+"Sent!" "http://dvb66.com" 595 postMessageTest.html:29:2
+"Sent!" "http://dvor.com" 596 postMessageTest.html:29:2
+"Sent!" "http://dwp.com" 597 postMessageTest.html:29:2
+"Sent!" "http://dwp.com" 598 postMessageTest.html:29:2
+"Sent!" "http://dxaffiliates.com" 599 postMessageTest.html:29:2
+"Sent!" "http://e2click.com" 600 postMessageTest.html:29:2
+"This browser is AJAX compatible" vbulletin-core.js:11:10736
+"Firing System Init" vbulletin-core.js:11:26207
+"Fire vB_XHTML_Ready" vbulletin-core.js:11:29534
+"Fetch Cookie :: vbulletin_collapse (null)" vbulletin-core.js:11:17102
+"Sent!" "http://eaaforums.org" 601 postMessageTest.html:29:2
+"uAgent: 'Mozilla/5.0 (X11; Linux i686 on x86_64; rv:38.0) Gecko/20100101 Firefox/38.0';
+uVendor: '';
+width: 1920;
+height: 1080;
+deviceRatio: 1;
+isPhoneDevice: false;
+isTabletDevice: false;
+isMobileDevice: false;
+isGoogleMobile: false;
+isAgentSocial: false;
+isAgentFacebook: false;
+isAgentTwitter: false;
+isiOS: false;
+isAndroid: false;
+isWindows: false;
+" navigatorEngine.js:33:16
+"Sent!" "http://eaglelounge.com" 602 postMessageTest.html:29:2
+"Sent!" "http://earth-policy.org" 603 postMessageTest.html:29:2
+"Sent!" "http://earthsendangered.com" 604 postMessageTest.html:29:2
+"Sent!" "http://eastbayspca.org" 605 postMessageTest.html:29:2
+"Sent!" "http://eastcoastdiving.com" 606 postMessageTest.html:29:2
+"Sent!" "http://eastdane.com" 607 postMessageTest.html:29:2
+"Sent!" "http://eastmeeteast.com" 608 postMessageTest.html:29:2
+ReferenceError: bcConfig is not defined
+Stack trace:
+@http://www.easybreathe.com/:1552:3
+ www.easybreathe.com:1568:20
+
+"JQMIGRATE: Logging is active" ecp-bundle.js:8:6584
+"[cycle] DOM not ready, queuing slideshow" cycles-slider.js:28:2
+"[cycle] terminating; too few slides: 1" cycles-slider.js:28:2
+"Sent!" "http://easyfitwindow.com" 609 postMessageTest.html:29:2
+"##########################
+#  The endpoint used to load this resource has been deprecated.
+#  Please update to the current Facebook JavaScript SDK.
+#  https://developers.facebook.com/docs/reference/javascript/
+##########################" FB.Share:55:242
+
+285 guest-c26d72a302cdb55b917e482d17e36091.js:1436:282
+"g+ ready" guest-c26d72a302cdb55b917e482d17e36091.js:1422:319
+"===============================================================================================================================" cookieconsent.latest.min.js:8:3
+
+"This version of Cookie Consent has been removed. See https://silktide.com/really-important-update-to-users-of-cookie-consent-2/" cookieconsent.latest.min.js:8:14
+
+"===============================================================================================================================" cookieconsent.latest.min.js:8:25
+
+"Sent!" "http://easyparapharmacie.com" 610 postMessageTest.html:29:2
+"Sent!" "http://easysell.com.au" 611 postMessageTest.html:29:2
+"Sent!" "http://easy-share.com" 612 postMessageTest.html:29:2
+"463937984" satellite-552d2b643233650014be0800.js:2:2
+"Sent!" "http://eat24hrs.com" 613 postMessageTest.html:29:2
+"Sent!" "http://eataly.com" 614 postMessageTest.html:29:2
+" [  0.001s] [studio.sdk] " Enabler.js:100:254
+" [  0.004s] [studio.sdk] " Enabler.js:100:254
+" [  1.109s] [studio.sdk] Using default ad parameters in test environment. Simulating local events." Enabler.js:100:254
+"Sent!" "http://eater.com" 615 postMessageTest.html:29:2
+"Sent!" "http://eatingthaifood.com" 616 postMessageTest.html:29:2
+undefined vendor-813b99f03c42165fff1634bc5e3443b7.js:14:13791
+
+"scripterror" www.ebags.com:107:27
+"Sent!" "http://eberjey.com" 617 postMessageTest.html:29:2
+"Sent!" "http://ebharatgas.com" 618 postMessageTest.html:29:2
+"Sent!" "http://ebike.hu" 619 postMessageTest.html:29:2
+"Sent!" "http://ebl.com.bd" 620 postMessageTest.html:29:2
+"Sent!" "http://e-boks.dk" 621 postMessageTest.html:29:2
+"Sent!" "http://ebookstage.com" 622 postMessageTest.html:29:2
+"Sent!" "http://ebuddy.com" 623 postMessageTest.html:29:2
+"Sent!" "http://ebusinessindya.com" 624 postMessageTest.html:29:2
+"Sent!" "http://ecapcity.com" 625 postMessageTest.html:29:2
+"Sent!" "http://ecatholic.com" 626 postMessageTest.html:29:2
+"Sent!" "http://ecgi.org" 627 postMessageTest.html:29:2
+"Sent!" "http://eclassifiedsweb.com" 628 postMessageTest.html:29:2
+"Sent!" "http://eclecticenergies.com" 629 postMessageTest.html:29:2
+"Sent!" "http://eclipse.org" 630 postMessageTest.html:29:2
+"Sent!" "http://ecns.cn" 631 postMessageTest.html:29:2
+"Sent!" "http://ecojobs.com" 632 postMessageTest.html:29:2
+"Sent!" "http://ecollege.com" 633 postMessageTest.html:29:2
+"Sent!" "http://econintersect.com" 634 postMessageTest.html:29:2
+"00fbigsg40t4oom8tfu7oif1t3" session-script.js:29:2
+"Sent!" "http://ecustomeropinions.com" 635 postMessageTest.html:29:2
+"===============================================================================================================================" cookieconsent.latest.min.js:8:3
+
+"This version of Cookie Consent has been removed. See https://silktide.com/really-important-update-to-users-of-cookie-consent-2/" cookieconsent.latest.min.js:8:14
+
+"===============================================================================================================================" cookieconsent.latest.min.js:8:25
+
+"Sent!" "http://edarling.pl" 636 postMessageTest.html:29:2
+"Sent!" "http://edcilindia.co.in" 637 postMessageTest.html:29:2
+"Sent!" "http://edmc.edu" 638 postMessageTest.html:29:2
+"s_account= canwestglobal,canedmonton" _static:2171:12
+"s.pageName= /index.html(WP)" _static:2171:12
+"s.server= edmontonjournal.com" _static:2171:12
+"s.channel= index" _static:2171:12
+"s.pageType= " _static:2171:12
+"Sent!" "http://edoola.com" 639 postMessageTest.html:29:2
+"Sent!" "http://edpremium.com" 640 postMessageTest.html:29:2
+"[cycle2] --c2 init--" jquery.cycle2.min.js:6:8647
+"[cycle2] pagerTemplate: <span></span> (string)" jquery.cycle2.min.js:6:8647
+"[cycle2] pager: #custom-pager (string)" jquery.cycle2.min.js:6:8647
+"[cycle2] slides: > div.splash-item (string)" jquery.cycle2.min.js:6:8647
+"[cycle2] random: false (boolean)" jquery.cycle2.min.js:6:8647
+"[cycle2] timeout: 8000 (number)" jquery.cycle2.min.js:6:8647
+"[cycle2] manualSpeed: 400 (number)" jquery.cycle2.min.js:6:8647
+"[cycle2] speed: 600 (number)" jquery.cycle2.min.js:6:8647
+"[cycle2] fx: fade (string)" jquery.cycle2.min.js:6:8647
+"/ submitted to Listrak" script.js:207:23
+"Loading LPS_LSH version 1.9.6.b (Toolbox v2.8.4) with debug mode - Revision: 1" script.js:313:956
+"no subscriber data found in storage" script.js:313:918
+"Sent!" "http://efinancemanagement.com" 641 postMessageTest.html:29:2
+"Sent!" "http://eflorist.pk" 642 postMessageTest.html:29:2
+"Sent!" "http://eglancesender.com" 643 postMessageTest.html:29:2
+"Sent!" "http://eglobalcentral.eu" 644 postMessageTest.html:29:2
+"Sent!" "http://e-hentai.org" 645 postMessageTest.html:29:2
+"check for quiz" www.ehfcl.com:190:39
+"check for live ticker" www.ehfcl.com:114:39
+"#10 ekim ehliyet sorulari# #ehliyet sinav sorulari# #ehliyet sinavi sorulari ve cevap anahtari# #ehliyet sinav sonuclari# #ehliyet sorulari ne zaman yayinlanacak# #ehliyet sinav sorulari cöz# #cikmiş# #gecmiş# #test cöz# #ehliyet sorulari cöz# #ehliyet deneme sinavi test cöz# #ehliyet sinav sonuclari# #sonuclar# #ehliyet# #sinav# #soru# #sonuc# #online sorular# #online testler# #online ehliyet testleri# #ilkyardim# #trafik# #motor# #a1# #a2 ehliyet sorulari#" gtm.js:1:348
+"#10 ekim ehliyet sorulari# #ehliyet sinav sorulari# #ehliyet sinavi sorulari ve cevap anahtari# #ehliyet sinav sonuclari# #ehliyet sorulari ne zaman yayinlanacak# #ehliyet sinav sorulari cöz# #cikmiş# #gecmiş# #test cöz# #ehliyet sorulari cöz# #ehliyet deneme sinavi test cöz# #ehliyet sinav sonuclari# #sonuclar# #ehliyet# #sinav# #soru# #sonuc# #online sorular# #online testler# #online ehliyet testleri# #ilkyardim# #trafik# #motor# #a1# #a2 ehliyet sorulari#" gtm.js:1:348
+"Sent!" "http://eidmubarakstatus.com" 646 postMessageTest.html:29:2
+"Sent!" "http://eiermann.de" 647 postMessageTest.html:29:2
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Sent!" "http://ekhanei.com" 648 postMessageTest.html:29:2
+"Sent!" "http://ekit.com" 649 postMessageTest.html:29:2
+"Sent!" "http://elektronischer-markt.de" 650 postMessageTest.html:29:2
+"Sent!" "http://elephone.cc" 651 postMessageTest.html:29:2
+"ve: console restored !" capture-apps-4.7.2.js:6:11523
+"VeApps: VeApps 4.7.2 Deploy:1 Build:1" capture-apps-4.7.2.js:6:1829
+"VeApps: Loading custom events." capture-apps-4.7.2.js:6:1744
+"VeApps: initialising capture-apps" capture-apps-4.7.2.js:6:1744
+"VeApps: Browser detected: Firefox supported" capture-apps-4.7.2.js:8:24690
+"VeApps: Not loading VeApps: within an Iframe" capture-apps-4.7.2.js:6:1829
+"VeApps: starting form identification process" capture-apps-4.7.2.js:6:1744
+"VeApps: beginning identification for formGroup: classicForms" capture-apps-4.7.2.js:6:1744
+"VeApps: identified formId as: 0 for form group: classicForms" capture-apps-4.7.2.js:6:1744
+"VeApps: Loading VeCompliance" capture-apps-4.7.2.js:6:1744
+"VeApps: beginning identification for formGroup: appsForms" capture-apps-4.7.2.js:6:1744
+"VeApps: identified formId as: chat for form group: appsForms" capture-apps-4.7.2.js:6:1744
+"VeApps: Apps configured for this page" capture-apps-4.7.2.js:6:1744
+"VeApps: 1 retry of the AJAX request for sessionInit request" capture-apps-4.7.2.js:6:1744
+"VeApps: 2 retry of the AJAX request for sessionInit request" capture-apps-4.7.2.js:6:1744
+"Sent!" "http://elephonemobile.com" 652 postMessageTest.html:29:2
+"Sent!" "http://elevatedx.com" 653 postMessageTest.html:29:2
+"Sent!" "http://elgaronline.com" 654 postMessageTest.html:29:2
+"Sent!" "http://elife-pharmacy.com" 655 postMessageTest.html:29:2
+"This browser is AJAX compatible" vbulletin-core.js:11:10736
+"Sent!" "http://elitewebsitetraffic.com" 656 postMessageTest.html:29:2
+"Sent!" "http://elpsicoasesor.com" 657 postMessageTest.html:29:2
+"Sent!" "http://elvisoncd.com" 658 postMessageTest.html:29:2
+"Sent!" "http://emailaddressmanager.com" 659 postMessageTest.html:29:2
+"Sent!" "http://emaillargefile.com" 660 postMessageTest.html:29:2
+"Sent!" "http://emailtextmessages.com" 661 postMessageTest.html:29:2
+"Sent!" "http://embo.org" 662 postMessageTest.html:29:2
+"Sent!" "http://e-mcat.com" 663 postMessageTest.html:29:2
+"CSRFGuard: Injected synchronizer token into form " <form id="ShowLoginFormRedirectToLogin" action="https://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ViewUserAccount-ShowLogin;pgid=WZtMKfaYs81SRpEoh9VgbI720000-_B6w8o4;sid=7P15ck-e2bB1chn_Lx9o-qHLVXu7LYF398sTh0GyQCqL8sfwND9OKX6GktGdijje4v1Xa5zoL8CA2kPatiXWhP6Gjlz9e2PPDZ-dcB8uhubgtkXlNyS11A68tk5xuktZ2kXA9I3BZJOhsIyjFVW6T7Y2?TargetPipelineAfterLogin=Default-Start&amp;TargetPipeline=Default-Start" method="post"> " (name: " null ")" merck-vendor.min.js:1:6890
+"CSRFGuard: Injected synchronizer token into form " <form method="get" action="http://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ViewParametricSearch-SimpleOfferSearch;sid=7P15ck-e2bB1chn_Lx9o-qHLVXu7LYF398sTh0GyQCqL8sfwND9OKX6GktGdijje4v1Xa5zoL8CA2kPatiXWhP6Gjlz9e2PPDZ-dcB8uhubgtkXlNyS11A68tk5xuktZ2kXA9I3BZJOhsIyjFVW6T7Y2" name="Search_2RGb.qB.zxsAAAFPUml1gL3H" role="search" class="search"> " (name: " "Search_2RGb.qB.zxsAAAFPUml1gL3H" ")" merck-vendor.min.js:1:6890
+"CSRFGuard: Injecting synchronizer tokens upon page load." merck-vendor.min.js:1:7492
+"CSRFGuard: Finished injecting synchronizer tokens upon page load." merck-vendor.min.js:1:7627
+"Sent!" "http://emedia4.com" 664 postMessageTest.html:29:2
+"Sent!" "http://emojistuff.com" 665 postMessageTest.html:29:2
+"Sent!" "http://emposha.com" 666 postMessageTest.html:29:2
+Error: Permission denied to access property "Squarespace"
+Stack trace:
+@http://emre-sokullu-zwa9.squarespace.com/:53:1
+@http://emre-sokullu-zwa9.squarespace.com/:53:15
+@http://emre-sokullu-zwa9.squarespace.com/:53:2
+ emre-sokullu-zwa9.squarespace.com:53:382
+
+"Sent!" "http://enceinte.com" 667 postMessageTest.html:29:2
+"Sent!" "http://encompassinsurance.com" 668 postMessageTest.html:29:2
+"Sent!" "http://encorebooks.net" 669 postMessageTest.html:29:2
+"Sent!" "http://encore-gp.com" 670 postMessageTest.html:29:2
+"Sent!" "http://endjatt.com" 671 postMessageTest.html:29:2
+"Sent!" "http://endurancewarranty.com" 672 postMessageTest.html:29:2
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Sent!" "http://english-khmer.com" 673 postMessageTest.html:29:2
+"Sent!" "http://eni.it" 674 postMessageTest.html:29:2
+"[cycle2] --c2 init--" jquery.cycle2.min.js:6:8724
+"Sent!" "http://enterthemeeting.com" 675 postMessageTest.html:29:2
+"Sent!" "http://envatostuff.rocks" 676 postMessageTest.html:29:2
+"##########################
+#  The endpoint used to load this resource has been deprecated.
+#  Please update to the current Facebook JavaScript SDK.
+#  https://developers.facebook.com/docs/reference/javascript/
+##########################" FeatureLoader.js.php:55:242
+
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"JQMIGRATE: Logging is active" application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31:470
+"JQMIGRATE: AJAX events should be attached to document: ajaxStart" application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31:115
+console.trace(): application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31
+n() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31
+t.event.add() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31
+.on/<() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:25
+.each() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:14
+Z.prototype.each() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:14
+.on() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:25
+.bind() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:25
+<anonymous> application-48b2d01de905f001c1d6fcb0fa7d5e87.js:41
+
+"JQMIGRATE: AJAX events should be attached to document: ajaxStop" application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31:115
+console.trace(): application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31
+n() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31
+t.event.add() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31
+.on/<() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:25
+.each() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:14
+Z.prototype.each() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:14
+.on() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:25
+.bind() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:25
+<anonymous> application-48b2d01de905f001c1d6fcb0fa7d5e87.js:41
+
+"[cycle] terminating; zero elements found by selector" application-48b2d01de905f001c1d6fcb0fa7d5e87.js:52:91
+"JQMIGRATE: jQuery.fn.live() is deprecated" application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31:115
+console.trace(): application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31
+n() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31
+t.fn.live() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31
+t.fn.modal() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:62
+<anonymous> application-48b2d01de905f001c1d6fcb0fa7d5e87.js:42
+Z.Callbacks/h() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:24
+Z.Callbacks/u.fireWith() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:24
+.ready() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:24
+a() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:14
+nrWrapper() eol.org:7
+
+"JQMIGRATE: AJAX events should be attached to document: ajaxSuccess" application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31:115
+console.trace(): application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31
+n() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31
+t.event.add() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:31
+.on/<() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:25
+.each() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:14
+Z.prototype.each() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:14
+.on() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:25
+Z.fn[e]() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:26
+<anonymous> application-48b2d01de905f001c1d6fcb0fa7d5e87.js:62
+Z.Callbacks/h() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:24
+Z.Callbacks/u.fireWith() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:24
+.ready() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:24
+a() application-48b2d01de905f001c1d6fcb0fa7d5e87.js:14
+nrWrapper() eol.org:7
+
+"Sent!" "http://epathcampus.com" 677 postMessageTest.html:29:2
+"Sent!" "http://ephotozine.com" 678 postMessageTest.html:29:2
+"Sent!" "http://epost.de" 679 postMessageTest.html:29:2
+"Sent!" "http://eppc.org" 680 postMessageTest.html:29:2
+"Sent!" "http://eppraisal.com" 681 postMessageTest.html:29:2
+ThemePunch GreenSocks Logs jquery.themepunch.plugins.min.js:25
+"Build GreenSock SandBox for ThemePunch Plugins" jquery.themepunch.plugins.min.js:33:0
+"GreenSock TweenLite Engine Initalised by ThemePunch Plugin" jquery.themepunch.plugins.min.js:34:0
+Slider Revolution 4.5.7 Initialisation on undefined jquery.themepunch.revolution.min.js:8
+Used Options: jquery.themepunch.revolution.min.js:8
+Object { delay: 9000, startheight: 500, startwidth: 1170, fullScreenAlignForce: "off", autoHeight: "off", hideTimerBar: "off", hideThumbs: 200, hideNavDelayOnMobile: 1500, thumbWidth: 100, thumbHeight: 50, 54 more… } jquery.themepunch.revolution.min.js:8:9348
+Tween Engine: jquery.themepunch.revolution.min.js:8
+"GreenSock Engine Version in Slider Revolution:1.12.1" jquery.themepunch.revolution.min.js:8:9511
+"Sent!" "http://equidaily.com" 682 postMessageTest.html:29:2
+"Sent!" "http://erickh.com" 683 postMessageTest.html:29:2
+"Sent!" "http://eriksbikeshop.com" 684 postMessageTest.html:29:2
+"INF_FPU: Initiated" po1.php:2:1506
+"Sent!" "http://escape-city.com" 685 postMessageTest.html:29:2
+"Sent!" "http://eschoolsolutions.com" 686 postMessageTest.html:29:2
+"Sent!" "http://eschooltoday.com" 687 postMessageTest.html:29:2
+"Sent!" "http://esclicks.com" 688 postMessageTest.html:29:2
+"Sent!" "http://escort1.biz" 689 postMessageTest.html:29:2
+"Sent!" "http://esenderusa.com" 690 postMessageTest.html:29:2
+"Sent!" "http://eshu5151.cn" 691 postMessageTest.html:29:2
+"Sent!" "http://espc.com" 692 postMessageTest.html:29:2
+"toggleStickyNav" scripts.min.js:3:26425
+"toggleStickyNav2" scripts.min.js:3:26485
+"Hearst.Navbar.createWaypoints" scripts.min.js:3:27121
+"Sent!" "http://essaysmith.com" 693 postMessageTest.html:29:2
+"Sent!" "http://essentialretail.com" 694 postMessageTest.html:29:2
+"Sent!" "http://essjayericsson.com" 695 postMessageTest.html:29:2
+"Sent!" "http://estately.com" 696 postMessageTest.html:29:2
+"Sent!" "http://estatesales.net" 697 postMessageTest.html:29:2
+"Sent!" "http://ethansvu.com" 698 postMessageTest.html:29:2
+"Sent!" "http://ethemeuk.com" 699 postMessageTest.html:29:2
+"Sent!" "http://ethicsstupid.com" 700 postMessageTest.html:29:2
+"Sent!" "http://etonenet.com" 701 postMessageTest.html:29:2
+"Zarget :" "No heatmap experiment is created for this url " 52734.js:3:102308
+"[cycle] terminating; zero elements found by selector" jquery.cycle.all.min.js:1:211
+"Sent!" "http://eugenef.com" 702 postMessageTest.html:29:2
+"Login status check is finished." js_WuszYNSABMmrcXZPVp3gfJMgp8OYrm_Y7K_7ur-9hY0.js:23:8
+"Login status check is finished." js_WuszYNSABMmrcXZPVp3gfJMgp8OYrm_Y7K_7ur-9hY0.js:23:8
+"Sent!" "http://eurohandball.com" 703 postMessageTest.html:29:2
+"[cycle] terminating; too few slides: 0" jquery.cycle.all.min.js:10:194
+ wt_capi.js:21:24586
+"Sent!" "http://european-athletics-statistics.org" 704 postMessageTest.html:29:2
+"[cycle2] --c2 init--" jquery.cycle2.min.js:6:8647
+"[cycle2] progressive: #images (string)" jquery.cycle2.min.js:6:8647
+"[cycle2] loader: true (boolean)" jquery.cycle2.min.js:6:8647
+"Sent!" "http://evangelicaloutpost.com" 705 postMessageTest.html:29:2
+"Sent!" "http://eventespresso.com" 706 postMessageTest.html:29:2
+"Sent!" "http://eventhelix.com" 707 postMessageTest.html:29:2
+"Sent!" "http://eventsking.com" 708 postMessageTest.html:29:2
+"Sent!" "http://ever4u.com" 709 postMessageTest.html:29:2
+"Sent!" "http://everydaygags.com" 710 postMessageTest.html:29:2
+"Sent!" "http://everydaygags.com" 711 postMessageTest.html:29:2
+Array [  ] everymanjack.com:533:20
+Array [  ] everymanjack.com:527:24
+"Sent!" "http://everyonedoesit.com" 712 postMessageTest.html:29:2
+"Sent!" "http://everyone.net" 713 postMessageTest.html:29:2
+"Sent!" "http://evouchercodesuk.com" 714 postMessageTest.html:29:2
+"Sent!" "http://eways.ph" 715 postMessageTest.html:29:2
+"Given URL is not allowed by the Application configuration: One or more of the given URLs is not allowed by the App's settings.  It must match the Website URL or Canvas URL, or the domain must be a subdomain of one of the App's domains." ping:1:50
+"Sent!" "http://ewealth.com" 716 postMessageTest.html:29:2
+"dygraphs: Using default labels. Set labels explicitly via 'labels' in the options parameter (dygraph-combined.js:2:8194)" dygraph-combined.js:2:79562
+"Sent!" "http://excella.co.th" 717 postMessageTest.html:29:2
+"Sent!" "http://excelsports.com" 718 postMessageTest.html:29:2
+"Sent!" "http://exchange3d.com" 719 postMessageTest.html:29:2
+"Sent!" "http://excoboard.com" 720 postMessageTest.html:29:2
+"Sent!" "http://exim.org" 721 postMessageTest.html:29:2
+"VXM library has loaded" venatus-marketplace-core.js:187:73
+"failed to get preferred airlines" corewizard.siteid_3.langid_2057-min-2194801337.js:31:5057
+"Endpoint failure." corewizard.siteid_3.langid_2057-min-2194801337.js:51:732
+"Sent!" "http://experian.com" 722 postMessageTest.html:29:2
+"Sent!" "http://experienced-people.co.uk" 723 postMessageTest.html:29:2
+"Sent!" "http://expo-max.com" 724 postMessageTest.html:29:2
+"Sent!" "http://extech.com" 725 postMessageTest.html:29:2
+"Sent!" "http://extech.com" 726 postMessageTest.html:29:2
+"Sent!" "http://extremecorals.com" 727 postMessageTest.html:29:2
+"Sent!" "http://extremejokes.com" 728 postMessageTest.html:29:2
+"duplicate in.js loaded, any parameters will be ignored" in.js:5:65
+"duplicate in.js loaded, any parameters will be ignored" in.js:5:65
+"duplicate in.js loaded, any parameters will be ignored" in.js:5:65
+"duplicate in.js loaded, any parameters will be ignored" in.js:5:65
+
